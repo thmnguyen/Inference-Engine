@@ -13,6 +13,7 @@ class KnowledgeBase:
     def add_sentence(self, sentence: str):
         # Add a sentence to the knowledge base.
         post_fix = infix_to_postfix(sentence)
+        
         sentence_symbols = self.add_symbol(post_fix, True)
         self.sentences.append(LogicSentence(sentence, post_fix, sentence_symbols))
 

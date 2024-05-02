@@ -1,5 +1,5 @@
 from KnowledgeBase import KnowledgeBase
-from InferenceAlgorithm import InferenceAlgorithm, TruthTableAlgorithm
+from Algorithms.InferenceAlgorithm import InferenceAlgorithm
 
 class InferenceEngine:
     def __init__(self, algorithm: InferenceAlgorithm):

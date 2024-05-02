@@ -1,7 +1,9 @@
 import sys
 from InferenceEngine import InferenceEngine
 from KnowledgeBase import KnowledgeBase
-from InferenceAlgorithm import *
+from Algorithms.TruthTable import *
+from Algorithms.FowardChaining import *
+from Algorithms.BackwardChaining import *
 
 def main():
     if len(sys.argv) <= 2:
@@ -25,7 +27,6 @@ def main():
         else:
             print("Invalid algorithm choice")
             return
-        
         engine = InferenceEngine(algorithm)
         engine.run_inference()
 

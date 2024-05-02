@@ -1,6 +1,6 @@
 import re
 from constants import LOGIC_OPERANDS
-
+from utils import*
 def get_tokens(sentences: str):
     # Extract tokens from a sentence string.
     regex_logical = r"\w+\d+|\w+|=>|<=>|~|\)|\(|&|\|\|"
