@@ -8,9 +8,8 @@ class LogicSentence:
         self.symbols = symbols
         self.premises = []
         self.set_variables()
-        print(self.premises)
 
-    def set_variables(self):
+    def set_variables(self): 
             new_content = get_tokens(self.raw_content)
             if len(new_content) == 0:
                 self.conclusion = ""
@@ -23,7 +22,18 @@ class LogicSentence:
                 for element in self.left:
                     if element not in LOGIC_OPERANDS:
                         self.premises.append(element)
-
+    def execute_logic_operation(self,operator: str, operand1: bool, operand2: bool):
+    # Execute a logic operation based on the operator and operands.
+        if operator == "~":
+            return not operand1
+        elif operator == "||":
+            return operand1 or operand2
+        elif operator == "&":
+            return operand1 and operand2
+        elif operator == "=>":
+            return not operand1 or operand2
+        elif operator == "<=>":
+            return operand1 == operand2
     def evaluate(self, model: list[tuple[str, bool]]) -> bool:
         # Evaluate the truth value of the sentence under the given model.
         stack = []
@@ -37,13 +47,15 @@ class LogicSentence:
             elif len(stack) >= 2 and token != "~":
                 right = stack.pop()
                 left = stack.pop()
-                symbols_clone[f"({left} {token} {right})"] = execute_logic_operation(token, symbols_clone[left], symbols_clone[right])
+                symbols_clone[f"({left} {token} {right})"] = self.execute_logic_operation(token, symbols_clone[left], symbols_clone[right])
                 stack.append(f"({left} {token} {right})")
             elif len(stack) >= 1 and token == "~":
                 right = stack.pop()
-                symbols_clone[f"~{right}"] = execute_logic_operation(token, symbols_clone[right], symbols_clone[right])
+                symbols_clone[f"~{right}"] = self.execute_logic_operation(token, symbols_clone[right], symbols_clone[right])
                 stack.append(f"~{right}")
         return symbols_clone[stack.pop()]
-
+    
+    
     def __str__(self) -> str:
         return f"content {str(self.content)}, symbols {str(self.symbols)}"
+    

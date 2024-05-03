@@ -14,7 +14,6 @@ class ForwardChainingAlgorithm(InferenceAlgorithm):
 
     def check_all(self):
         query = self.query.content[0]
-        print(query)
         # Process symbols in the agenda as long as it's not empty
         while len(self.agenda) > 0:
             symbol = self.agenda.pop(0) # Take the first symbol from the agenda
@@ -41,13 +40,13 @@ class ForwardChainingAlgorithm(InferenceAlgorithm):
         q = self.query.content[0]
         # For each sentence in the knowledge base
         for sentence in self.knowledge_base.sentences:
-            # If the sentence is a fact, add its conclusion to the agenda
             if len(sentence.content) == 1 and sentence.conclusion == q:
                 return (True, q)
             # If the sentence is a rule, add its conclusion to the agenda
             if len(sentence.premises) > 0:
                 self.count[sentence] = len(sentence.premises)
-            else:
+            # If the sentence is a fact, add its conclusion to the agenda
+            else: 
                 self.agenda.append(sentence.conclusion)
         for symbol in self.knowledge_base.symbols:
             self.inferred[symbol] = False

@@ -11,7 +11,6 @@ class TruthTableAlgorithm(InferenceAlgorithm):
     def check_all_models(self, symbols: list, model: list[tuple[str, bool]]):
         # Recursively check all possible models and count the satisfying ones.
         if len(symbols) == 0:
-            
             result = True
             if self.knowledge_base.is_model_valid(model):
                 result = self.query.evaluate(model)

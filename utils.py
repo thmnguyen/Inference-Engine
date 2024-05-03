@@ -32,16 +32,3 @@ def infix_to_postfix(sentences: str):
     while len(stack) != 0:
         queue.append(stack.pop())
     return queue
-
-def execute_logic_operation(operator: str, operand1: bool, operand2: bool):
-    # Execute a logic operation based on the operator and operands.
-    if operator == "~":
-        return not operand1
-    elif operator == "||":
-        return operand1 or operand2
-    elif operator == "&":
-        return operand1 and operand2
-    elif operator == "=>":
-        return not operand1 or operand2
-    elif operator == "<=>":
-        return operand1 == operand2
