@@ -7,7 +7,6 @@ class LogicSentence:
         self.content = content
         self.symbols = symbols
         self.premises = []
-        self.set_premises()
 
     def set_premises(self): 
             new_content = get_tokens(self.raw_content)
@@ -34,7 +33,7 @@ class LogicSentence:
             return not operand1 or operand2
         elif operator == "<=>":
             return operand1 == operand2
-    def evaluate(self, model: list[tuple[str, bool]]) -> bool:
+    def evaluate(self, model):
         # Evaluate the truth value of the sentence under the given model.
         stack = []
         for token, value in model:
@@ -56,6 +55,6 @@ class LogicSentence:
         return symbols_clone[stack.pop()]
     
     
-    def __str__(self) -> str:
+    def __str__(self):
         return f"content {str(self.content)}, symbols {str(self.symbols)}"
     

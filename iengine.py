@@ -14,15 +14,17 @@ def main():
     else:
         file_name = sys.argv[1]
         algorithm_choice = sys.argv[2].upper()
-        
-        knowledge_base = KnowledgeBase()
-        knowledge_base.load_input_file(file_name)
-        
         if algorithm_choice == "TT":
+            knowledge_base = KnowledgeBase(False)
+            knowledge_base.load_input_file(file_name)
             algorithm = TruthTableAlgorithm(knowledge_base)
         elif algorithm_choice == "FC":
+            knowledge_base = KnowledgeBase(True)
+            knowledge_base.load_input_file(file_name)
             algorithm = ForwardChainingAlgorithm(knowledge_base)
         elif algorithm_choice == "BC":
+            knowledge_base = KnowledgeBase(True)
+            knowledge_base.load_input_file(file_name)
             algorithm = BackwardChainingAlgorithm(knowledge_base)
         else:
             print("Invalid algorithm choice")

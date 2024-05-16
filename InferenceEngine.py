@@ -3,7 +3,6 @@ from Algorithms.InferenceAlgorithm import InferenceAlgorithm
 
 class InferenceEngine:
     def __init__(self, algorithm: InferenceAlgorithm):
-        self.knowledge_base = KnowledgeBase()
         self.algorithm = algorithm
 
     def run_inference(self):

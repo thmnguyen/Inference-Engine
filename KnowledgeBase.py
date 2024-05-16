@@ -2,28 +2,31 @@ from LogicSentence import LogicSentence
 from utils import *
 
 class KnowledgeBase:
-    def __init__(self):
+    def __init__(self, isSetPremise):
         self.sentences = []
         self.symbols = dict()
         self.query = []
         self.query_symbols = dict()
         self.current_action = "TELL"
+        self.SetPremise = isSetPremise
 
-    def add_sentence(self, sentence: str):
+    def add_sentence(self, sentence):
         
         # Add a sentence to the knowledge base.
         post_fix = infix_to_postfix(sentence)
-        
         sentence_symbols = self.add_symbol(post_fix, True)
-        self.sentences.append(LogicSentence(sentence, post_fix, sentence_symbols))
+        logic_sentence = LogicSentence(sentence, post_fix, sentence_symbols)
+        if self.SetPremise == True:
+            logic_sentence.set_premises()
+        self.sentences.append(logic_sentence)
 
-    def add_query(self, query: str):
+    def add_query(self, query):
         # Add a query to the knowledge base.
         post_fix = infix_to_postfix(query)
         sentence_symbols = self.add_symbol(post_fix, False)
         self.query.append(LogicSentence(query, post_fix, sentence_symbols))
 
-    def add_symbol(self, sequence: str, is_sentence: bool) -> dict():
+    def add_symbol(self, sequence, is_sentence):
         # Add symbols to the knowledge base or query.
         sentence_symbols = dict()
         for symbol in sequence:
@@ -50,7 +53,7 @@ class KnowledgeBase:
             self.current_action = "TELL"
         elif action == "ASK":
             self.current_action = "ASK"
-    
+
     def load_input_file(self, file_name):
         # Load input from a file and populate the knowledge base.
         try:

@@ -3,7 +3,7 @@ from KnowledgeBase import KnowledgeBase
 from LogicSentence import LogicSentence
 from Algorithms.InferenceAlgorithm import*
 class TruthTableAlgorithm(InferenceAlgorithm):
-    def __init__(self, knowledge_base):
+    def __init__(self, knowledge_base: KnowledgeBase):
         super().__init__(knowledge_base)
         self.count = 0
         self.query = LogicSentence()
