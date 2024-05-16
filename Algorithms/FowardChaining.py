@@ -15,7 +15,7 @@ class ForwardChainingAlgorithm(InferenceAlgorithm):
     def check_all(self):
         query = self.query.content[0]
         # Process symbols in the agenda as long as it's not empty
-        while len(self.agenda) > 0:
+        while len(self.agenda) > 0: # agenda is the truth that already being confirmed
             symbol = self.agenda.pop(0) # Take the first symbol from the agenda
             if (symbol not in self.path):
                 self.path.append(symbol)
@@ -34,7 +34,7 @@ class ForwardChainingAlgorithm(InferenceAlgorithm):
                             self.agenda.append(sentence.conclusion)
         return False, []
 
-    def entails(self) -> tuple[bool, list]:
+    def entails(self):
         # Set query from first query in the knowledge base
         self.query = self.knowledge_base.query[0]
         q = self.query.content[0]

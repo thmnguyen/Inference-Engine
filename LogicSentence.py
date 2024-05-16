@@ -7,9 +7,9 @@ class LogicSentence:
         self.content = content
         self.symbols = symbols
         self.premises = []
-        self.set_variables()
+        self.set_premises()
 
-    def set_variables(self): 
+    def set_premises(self): 
             new_content = get_tokens(self.raw_content)
             if len(new_content) == 0:
                 self.conclusion = ""

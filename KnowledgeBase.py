@@ -1,6 +1,5 @@
 from LogicSentence import LogicSentence
 from utils import *
-from utils import infix_to_postfix
 
 class KnowledgeBase:
     def __init__(self):
@@ -11,6 +10,7 @@ class KnowledgeBase:
         self.current_action = "TELL"
 
     def add_sentence(self, sentence: str):
+        
         # Add a sentence to the knowledge base.
         post_fix = infix_to_postfix(sentence)
         
@@ -50,7 +50,7 @@ class KnowledgeBase:
             self.current_action = "TELL"
         elif action == "ASK":
             self.current_action = "ASK"
-
+    
     def load_input_file(self, file_name):
         # Load input from a file and populate the knowledge base.
         try:
