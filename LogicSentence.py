@@ -15,12 +15,20 @@ class LogicSentence:
             elif len(new_content) == 1:
                 self.conclusion = new_content[0]
             else:
-                self.conclusion = new_content[-1]
-                index = new_content.index("=>")
-                self.left = new_content[:index]
-                for element in self.left:
-                    if element not in LOGIC_OPERANDS:
-                        self.premises.append(element)
+                if "=>" in new_content:
+                    index = new_content.index("=>")
+                    self.left = new_content[:index]
+                    self.conclusion = new_content[-1]
+                    for element in self.left:
+                        if element not in LOGIC_OPERANDS:
+                            self.premises.append(element)
+                else:
+                    self.conclusion = new_content[-1]
+                    self.left = new_content[:-1]
+                    for element in self.left:
+                        if element not in LOGIC_OPERANDS:
+                            self.premises.append(element)
+                            
     def execute_logic_operation(self,operator: str, operand1: bool, operand2: bool):
     # Execute a logic operation based on the operator and operands.
         if operator == "~":

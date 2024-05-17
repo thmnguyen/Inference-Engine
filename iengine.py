@@ -4,6 +4,8 @@ from KnowledgeBase import KnowledgeBase
 from Algorithms.TruthTable import *
 from Algorithms.FowardChaining import *
 from Algorithms.BackwardChaining import *
+from Algorithms.WalkSAT import *
+from Algorithms.DPLL import *
 
 def main():
     if len(sys.argv) <= 2:
@@ -14,6 +16,7 @@ def main():
     else:
         file_name = sys.argv[1]
         algorithm_choice = sys.argv[2].upper()
+
         if algorithm_choice == "TT":
             knowledge_base = KnowledgeBase(False)
             knowledge_base.load_input_file(file_name)
@@ -26,6 +29,14 @@ def main():
             knowledge_base = KnowledgeBase(True)
             knowledge_base.load_input_file(file_name)
             algorithm = BackwardChainingAlgorithm(knowledge_base)
+        elif algorithm_choice == "WALKSAT":
+            knowledge_base = KnowledgeBase(True)
+            knowledge_base.load_input_file(file_name)
+            algorithm = WalkSAT(knowledge_base)    
+        elif algorithm_choice == "DPLL":
+            knowledge_base = KnowledgeBase(True)
+            knowledge_base.load_input_file(file_name)
+            algorithm = DPLL(knowledge_base)       
         else:
             print("Invalid algorithm choice")
             return
