@@ -29,7 +29,7 @@ class LogicSentence:
                         if element not in LOGIC_OPERANDS:
                             self.premises.append(element)
                             
-    def execute_logic_operation(self,operator: str, operand1: bool, operand2: bool):
+    def execute_logic_operation(self,operator, operand1, operand2):
     # Execute a logic operation based on the operator and operands.
         if operator == "~":
             return not operand1
@@ -41,6 +41,7 @@ class LogicSentence:
             return not operand1 or operand2
         elif operator == "<=>":
             return operand1 == operand2
+        
     def evaluate(self, model):
         # Evaluate the truth value of the sentence under the given model.
         stack = []

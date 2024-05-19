@@ -8,6 +8,7 @@ class BackwardChainingAlgorithm(InferenceAlgorithm):
         self.name = "BC"
         self.count = 0
         self.query = LogicSentence()
+        
         self.fact = dict()
         self.output = []
         
@@ -45,9 +46,10 @@ class BackwardChainingAlgorithm(InferenceAlgorithm):
                     return True
         return False
 
-    def entails(self) -> tuple[bool, list]:
+    def entails(self):
         # Initialize fact
         self.query = self.knowledge_base.query[0]
+        self.query.set_premises()
         for symbol in self.knowledge_base.symbols:
             # Initialize fact of symbol to False
             self.fact[symbol] = False

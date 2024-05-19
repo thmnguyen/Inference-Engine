@@ -48,6 +48,7 @@ class ForwardChainingAlgorithm(InferenceAlgorithm):
             # If the sentence is a fact, add its conclusion to the agenda
             else: 
                 self.agenda.append(sentence.conclusion)
+                
         for symbol in self.knowledge_base.symbols:
             self.inferred[symbol] = False
         return self.check_all()

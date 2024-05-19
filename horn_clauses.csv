@@ -1,0 +1,5001 @@
+text
+"TELL
+n & o => l; x & u & n & o => l; l => o; l & n & u & o => x; l => x; u & n & l => x; x => n; n => x; n & x & o => l; n & o => u; x; o; n;
+ASK
+u
+"
+"TELL
+t => i; p & a & i & t => v; p & t & a => i; i => a; t; v; a; p;
+ASK
+t
+"
+"TELL
+j & n => m; j & m => n; n => j; n & m => j; n => m; m & n => j; j => m; m => n; n & j => m; m & j => n; n; m; j;
+ASK
+n
+"
+"TELL
+g & y => p; r & p & g => o; g & y & o & p => r; g & y & o => p; p & o & g & y => r; p & y & o => r; p & o & r => y; y & r & o & p => g; y; g;
+ASK
+p
+"
+"TELL
+f & o & i & v => a; v => a; a & i => o; a & f & v & i => o; v; i;
+ASK
+f
+"
+"TELL
+b & u & a => t; b & u => a; a => t; a & p => b; b & p & u & a => t; u => a; t & b & a & u => p; u & p & a => t; b & u & p & t => a; t; a; u;
+ASK
+t
+"
+"TELL
+b & w => a; a => b; b & v & w => a; v & a => b; a & b & w => v; v & a => w; a & b & v => w; b & a & v => w; a & b => v; w & v & b => a; v & w & b => a; a; w; b;
+ASK
+a
+"
+"TELL
+t & m & o => w; m => y; t & w & y => m; w & y & t => m; y & w & m & t => o; t => o; y & m & o => w; o & w & m => t; w & y & t & o => m; y; w; o;
+ASK
+m
+"
+"TELL
+m & j & e & d => g; d & g & m => j; m & e => d; g => e; g & j => d; j => d; g & d => m; d & j & m => e; g; d;
+ASK
+e
+"
+"TELL
+t & v => g; g => t; t => v; t & g => v; v => t; v => g; g => v; v & t => g; t => g; g & v => t; g & t => v; v & g => t; g; t; v;
+ASK
+v
+"
+"TELL
+o => i; o & v => i; o => v; v & o => i; i => o; o & i => v; v => i; i & o => v; v & i => o; v => o; i & v => o; i => v; v; o;
+ASK
+o
+"
+"TELL
+m => w; w & k => m; w & m => k; m & w => k; w => m; k; w;
+ASK
+k
+"
+"TELL
+a & i => s; i => a; i & s => a; s => a; a => s; a & s => i; i & a => s; s & i => a; i => s; a; s; i;
+ASK
+a
+"
+"TELL
+m & y & o & s => u; s & u => o; u & y & s & m => o; m & s & o => u; o => u; u & s & y => m; y & o & u => m; s & o & y & u => m; m & o & u => y; u & y & m & s => o; o & u & m & y => s; m & u & s & y => o; s; o;
+ASK
+o
+"
+"TELL
+w & p & d => s; w => d; w & s => p; p & w => d; d & p & w => s; s => d; w & d => s; d & s => p; w & p & s => d; p & w & d => s; w; s; d; p;
+ASK
+p
+"
+"TELL
+p => x; o & p & i & j => x; o => x; p & j => x; x; j; i;
+ASK
+x
+"
+"TELL
+w & q => h; h => q; q & p => h; q & w => k; k & w => h; q & p & k & h => w; p & k & h => w; q => k; k & h & p & w => q; w => h; k; q; w; p;
+ASK
+p
+"
+"TELL
+g & t => m; m => t; g & m => t; m => g; m; t;
+ASK
+m
+"
+"TELL
+y => i; i => q; q & y => i; y => q; i & y => q; y & i => q; q => y; q => i; y; i;
+ASK
+q
+"
+"TELL
+k & x & o => r; o & x => k; r => o; r & x => k; k & x => r; x => r; x; o;
+ASK
+x
+"
+"TELL
+h => r; r & h & i & v => o; r & h => v; r & h => o; v & i & r => o; r & o => v; i; r;
+ASK
+o
+"
+"TELL
+s & f => a; a & s => f; f => s; s => f; f => a; a => f; s => a; a => s; a & f => s; s & a => f; f & s => a; f & a => s; f; a; s;
+ASK
+f
+"
+"TELL
+g & f => l; f & g & l & o => a; a => f; a & g & o & l => f; g; a;
+ASK
+o
+"
+"TELL
+b & s & q => h; h & b & q => s; s & q => h; q & s & b => h; s => q; q => b; h => s; q => s; q & b => s; q; s; h;
+ASK
+b
+"
+"TELL
+m => w; m & c & x => w; c & m & x & o => w; m & o & x & c => w; o & c & x & w => m; x & c => w; m & o & w & x => c; x & c & w & m => o; m & w => c; x => m; w; m; c;
+ASK
+c
+"
+"TELL
+d => n; d & q => n; n & d => q; n => q; n & q => d; q => n; d & n => q; q & d => n; n => d; n; q; d;
+ASK
+q
+"
+"TELL
+e & w => u; q => w; l & e & w & q => u; l & w & u & e => q; q & e => l; e => w; u => e; e & q & w & u => l; l; q; w;
+ASK
+e
+"
+"TELL
+n => e; s & e & l & z => n; z & l & n & e => s; e => n; l & z & s => n; n; s;
+ASK
+e
+"
+"TELL
+a & k & p => r; r => p; r & p => k; k; a; p;
+ASK
+r
+"
+"TELL
+z & h & c => x; h & x => c; h => c; x & c & z => h; x; c;
+ASK
+h
+"
+"TELL
+s => k; z & j & k => s; g & j & s & z => k; g & k & s => j; g & z & k & s => j; g & j => k; g; z;
+ASK
+j
+"
+"TELL
+g & u => p; a & g & z & p => u; a => z; g => a; g & p & a => z; g & p => a; z & g => u; u; p;
+ASK
+p
+"
+"TELL
+h & m => x; m & h => x; h => m; h => x; x => m; m & x => h; m => h; m => x; x; m; h;
+ASK
+h
+"
+"TELL
+k & g => n; n & k => b; k & n => g; n & k => g; g & k & n => b; k => g; k & g & b => n; k => n; g & k & b => n; n & g => k; n; g;
+ASK
+k
+"
+"TELL
+k => p; p & k => e; k & q & p => e; q => p; q => e; k & e & p => q; e; p;
+ASK
+q
+"
+"TELL
+e & c => y; e & y => c; e => c; y => c; c & y => e; c => e; e => y; c => y; y & e => c; y => e; y; e; c;
+ASK
+e
+"
+"TELL
+e & f => h; f => h; e => h; e & h => f; f => e; h => f; h => e; e;
+ASK
+h
+"
+"TELL
+h & y => x; x => y; y & h => x; h => y; x & h => y; y => h; x; h;
+ASK
+h
+"
+"TELL
+b & p => a; b & g & r & a => p; b & r & g => a; b & r & a => g; r & p => b; g & r & p & a => b; g => b; r & a & g & b => p; g; p;
+ASK
+p
+"
+"TELL
+h & r & x => e; e & h & x => r; x & h => r; e => x; h & x => e; x; e; h; r;
+ASK
+h
+"
+"TELL
+m => u; o & a & m => u; a & u & o => m; u & a & m => o; u & m => a; u => m; a & o & u => m; a; o;
+ASK
+a
+"
+"TELL
+n => r; n & z & l => h; r & n & z => l; h => n; n & z & l & r => h; n & r & l & h => z; n; h;
+ASK
+l
+"
+"TELL
+a => n; a & n => k; a & n & j & k => c; j => c; k & c => j; c & k => j; a & j & c => n; n => j; c & j & n => k; c & n => a; a & j & n => c; n; k; a;
+ASK
+j
+"
+"TELL
+q => w; w & u & q => o; q & o & w => u; u & q => w; o => w; o & q & u => w; u & o & w => q; q & u => w; u & q => o; q; u;
+ASK
+q
+"
+"TELL
+u & f & l & i => d; l & d & i & f => u; l & u & f => i; f & l & i & u => d; l & d => f; f & d => u; i & l & u & f => d; f; l; u; d;
+ASK
+i
+"
+"TELL
+w & u => o; u & w => o; o & w => u; u & o => w; o => u; w => o; o & u => w; w & o => u; o => w; w => u; u => o; w; o;
+ASK
+u
+"
+"TELL
+r & l & c => i; l => r; i & l & c => r; i & r & l => c; c & i & r => l; r & i => l; l & c => i;
+ASK
+r
+"
+"TELL
+l & y => r; l & r => y; l => r; r & y => l; y => l; y & r => l; r => l; r => y; r & l => y; l; r;
+ASK
+l
+"
+"TELL
+m & t & p & n => b; b & n & m => t; b => t; p => m; t & m => n; p & m => b; b & m => p; b & t => m; m; t; b; p;
+ASK
+n
+"
+"TELL
+y & j & k & e => f; k & y => f; j & e & k => f; y & j => k; k => j; y & f => k; e => j; f => y; f & y => j; e & k & j & y => f; y; e; j; f;
+ASK
+y
+"
+"TELL
+k => j; a & u & y => j; u & y & a => k; a & y => j; k & a & u & y => j; u & k => y; j & k & a => u; y; u;
+ASK
+a
+"
+"TELL
+o => r; r => o; q & r => o; q => o; r & o => q; o & q => r; q & o => r; r => q; o => q; o & r => q; r & q => o; q; o; r;
+ASK
+r
+"
+"TELL
+o & r & u => l; o & u & r => l; l => o; r & o => u; r & u => l; u & o & r => l; l => u; u => o; o & u => r; o & l => u; l; u; o; r;
+ASK
+o
+"
+"TELL
+k & y & l & u => g; k & l & u => y; g & l & u & k => y; u & y => l; y & g & u & l => k; y & k & u & g => l; k & g & y => l; g => k; l; k; y;
+ASK
+y
+"
+"TELL
+o & c => r; o => r; o & c & r => q; c & q & r => o; q & r & o => c; c => r; q & c & r => o; c & q => o; o => q; q & o & c => r; q; o;
+ASK
+q
+"
+"TELL
+s => k; k & i => s; i & s => k; k => s; k & s => i; i & k => s; i => k; s & k => i; k => i; k; s; i;
+ASK
+s
+"
+"TELL
+v & z => l; f => x; z & x & f => l; z & v & x => l; l => x; v & f & x & l => z; z & v & f => x; x & f & l => v; z & f & v => x; x; z; f;
+ASK
+f
+"
+"TELL
+e => k; n & e => h; k & n & e => h; h & e & k => n; k => n; h & k & e => n; n & h => k; h => k; h;
+ASK
+k
+"
+"TELL
+s & l => o; l & o & s => e; e & o => l; s & o & e => l; s & e & l => o; e & s & o => l; l & e => o; e => l; l; s; o;
+ASK
+e
+"
+"TELL
+d & s & l => i; i => e; s & i & l => e; d & i & s & e => l; d & e => i; s => e; l & i => e; s & e => i; i & l => d; i => s; e; d; i;
+ASK
+e
+"
+"TELL
+a & n => k; a => n; k => a; n => a; n & a => k; a => k; k & n => a; k & a => n; n & k => a; k => n; n => k; a & k => n; n; k; a;
+ASK
+k
+"
+"TELL
+a & e => u; a & u => e; e & u => a; e => u; a => u; a => e; u & a => e; e & a => u; u => e; u & e => a; e; a; u;
+ASK
+e
+"
+"TELL
+u => f; f => d; d => u; u & f => d; f => u; u & d => f; f & u => d; d => f; f & d => u; d;
+ASK
+u
+"
+"TELL
+j & v & t => s; d & j & v => t; d & j & s => v; d & v & s => j; v & d & t => j; s => d; v & d & t & s => j; v => d; v & j & d & t => s; s & d => t; s & d & j & t => v; d; t; v; j;
+ASK
+v
+"
+"TELL
+a & t & s => d; a & t & s => n; a & s & t & d => n; t & d & s & n => a; a & n => t; n & a => s; t; a; d;
+ASK
+t
+"
+"TELL
+v & q => c; n & v & c & e => q; v & q & c & e => n; q & v & e & n => c; c & v => e; c & n => e; v & c & q => e; c & e & n & q => v; n & v => q; n & e => c;
+ASK
+v
+"
+"TELL
+g => l; g & c & l => s; l => g; c => s; l; s; c;
+ASK
+g
+"
+"TELL
+a & u & f & i => s; f & i & s & u => a; s & f & a => i; u & i => s; u & i => f; i & f & s => u; i & f => u; f & a => u; f; i;
+ASK
+s
+"
+"TELL
+p & j & x => n; n & j => a; j & a & x & p => n; j & x & p & a => n; x & p & a => j; n => p; x & p => n; x & a & p => n; a & p & n => x; n; a; p;
+ASK
+j
+"
+"TELL
+f => o; p => f; p & f => o; f & p => o; p => o; f; o; p;
+ASK
+o
+"
+"TELL
+m => l; n & l => m; l & n => m; n & m => l; l => n; m & l => n; l & m => n; l => m; n => m; m => n; m & n => l; n => l; l; m; n;
+ASK
+l
+"
+"TELL
+s => k; s & b => z; s & k & z => b; k => b; k => z; z & s => b; s & k => z; s & z => k; s & b => k; z & k => b; s => z; z => k; s; z;
+ASK
+k
+"
+"TELL
+i => d; d & w & n => i; n & d => i; d => w; n; w; i;
+ASK
+d
+"
+"TELL
+s & m => p; m => p; m & p => s; m & s => p; p => s; p & s => m; m => s; s => p; s & p => m; p & m => s; m; p;
+ASK
+m
+"
+"TELL
+s & g & q => p; g & p & s => q; q & g & p => s; s => q; s & p & g => q; p & q => s; g => p; p & s & q => g; g; q; s; p;
+ASK
+s
+"
+"TELL
+t & e => i; e & t & f => i; f & e => i; e => i; i & t & f => e; f & e & t => i; i => f; e => t; f => t; f & i & e => t; f; t; e;
+ASK
+i
+"
+"TELL
+f => x; q & x => f; q => x; x => q; q & f => x; q => f; f & x => q; f & q => x; x => f; f => q; x; q; f;
+ASK
+f
+"
+"TELL
+f & h & a & i => s; i & s & a & f => h; h & a & i & s => f; i & a & f & s => h; a & s & i => f; h & f & s & a => i; i & f & s & a => h; h & s => a; f & s & h => a; f; a; s; i;
+ASK
+i
+"
+"TELL
+m => d; d & k => m; d => k; m & d => k; k & m => d; k & d => m; k => m; d & m => k; m & k => d; d => m; k; m; d;
+ASK
+m
+"
+"TELL
+u => f; j & u & s => f; f & j & s => u; j => u; j => s; u => j; s & f & j => u; f; s;
+ASK
+f
+"
+"TELL
+n => g; y => i; n => i; y => g; n & i & y => g; i => g; g & n => y; y & g => n; y; g;
+ASK
+g
+"
+"TELL
+z & i => c; c => i; d => z; c & z & d => i; z & d => i; z & i & d => c; i & c => d; c => d; c => z; d & z => c; z; i;
+ASK
+z
+"
+"TELL
+a & n & y => b; a & n & b & d => y; a & b => n; n; d; b;
+ASK
+a
+"
+"TELL
+x => h; k => x; k & h => x; k => h; x => k; h => x; h => k; x; k; h;
+ASK
+h
+"
+"TELL
+p & t => r; j => c; j & r => t; r & p & j & c => t; t & c & r & p => j; p => r; p & c => t; j => t; t & c & r & j => p; c & t & p => j; p & r & j => t; t; c; j;
+ASK
+r
+"
+"TELL
+f & x & v => m; x & k & v & f => m; k & f & m => v; x => v; k; f; x; v; m;
+ASK
+k
+"
+"TELL
+m => l; s & l & x => m; m & l & x => s; x => s; x & s & l => m; s => x; l => m; x; m; s;
+ASK
+x
+"
+"TELL
+u & a & y & k => j; a & j & k => u; u & a & k & y => j; a & k & u & y => j; k; u; j;
+ASK
+j
+"
+"TELL
+p => j; p & y & u => j; j => u; y => u; u & j & y => p; p => y;
+ASK
+u
+"
+"TELL
+a => j; a & j => q; j & z & q => a; j & z => q; q => p; a => p; z & q => p; j => p; z; p;
+ASK
+p
+"
+"TELL
+s & j => v; b => j; s & v & j => b; s & q => b; v & q => j; v; s; b; j;
+ASK
+v
+"
+"TELL
+w & h => v; h & n => p; n & h & p => w; p & w => h; w & n => p; n; v; h;
+ASK
+w
+"
+"TELL
+z & s & x => g; z => x; s & z & g => x; x & g & s => z; g => x; x => g; s & x => g; x & s => g; x => z; z & s & g => x; g & z & x => s; z;
+ASK
+z
+"
+"TELL
+z & l & y => r; r & y & z => o; l & y & o => z; z & o & l & r => y; r & o & y & l => z; y & z => l; o & l & z => y; z & l & y & o => r; r & l => y; l; z; o; r;
+ASK
+o
+"
+"TELL
+q & g & r => j; g & j & q => r; r & q & g => j; q => r; q => j; r => q; q & j & g => r; r => j; j;
+ASK
+g
+"
+"TELL
+o & d => j; y => k; j => k; j & d & y & o => k; y & j => o; d; o; j;
+ASK
+k
+"
+"TELL
+j & s & h => b; j & b => s; s & h => j; j & h & b => s; j => s; b & s & j => h; j & s => b; j => h; b => h; b;
+ASK
+j
+"
+"TELL
+h => r; r & h => z; h & r => z; z & h => r; z => r; r & z => h; h; z; r;
+ASK
+r
+"
+"TELL
+p => a; f => a; a => f; p => f; f & a => p; a & f => p; p & f => a; a => p; a & p => f; p & a => f; f => p; f; a; p;
+ASK
+p
+"
+"TELL
+d & k => j; k & j => d; d => j; j => k; j & d => k; j & k => d; j => d; k; d; j;
+ASK
+j
+"
+"TELL
+p & f => s; f => s; f & p => s; p => s; s & f => p; s & p => f; p => f; s => p; f & s => p; p & s => f; f => p; f; s; p;
+ASK
+s
+"
+"TELL
+r & k & g => m; m & r => g; k & m => g; m & k => g; g & m => k; g & r & k => m;
+ASK
+k
+"
+"TELL
+g => i; f => i; f & i => g; g & f => i; i => g; i & f => g; f & g => i; g => f; g & i => f; i & g => f; i => f; f => g; f; g; i;
+ASK
+f
+"
+"TELL
+b & l => f; b & l => w; l & w & f => b; l => w; f => b; b & l & w => f; f; w;
+ASK
+l
+"
+"TELL
+d & r => c; d & c & f => r; f & d => c; r & c => f; f & r & c => d; f => c; f & c => d; r & d => f; f & r & d => c; f => r; f & r => d; f; d; c; r;
+ASK
+r
+"
+"TELL
+b & u & a => p; u & r & b & a => p; p & u & a => b; u => a; p => u; u & p & r => a; a; r;
+ASK
+b
+"
+"TELL
+r => l; r & o => p; o & p & l & r => k; k & l & r & p => o; k; p;
+ASK
+o
+"
+"TELL
+e & o => f; e & f => o; o & f => v; f => o; v & e & f => o; e => o; f & e => o; v => f; o & e => f; f; e; v;
+ASK
+v
+"
+"TELL
+b & g => k; k => a; a => k; g => o; a => o; g; o;
+ASK
+a
+"
+"TELL
+p & r => y; r & p => y; r => y; p => y; p & y => r; p; r;
+ASK
+p
+"
+"TELL
+s & b => i; s & m => b; b & i => m; m & s => b; s => m; m & s => i; i & b & p => m; i & p => b; m; s; b;
+ASK
+b
+"
+"TELL
+d & e & p => a; e => d; d => p; e; d; p;
+ASK
+p
+"
+"TELL
+t & q & y => i; t => i; q & y => i; q & t => i; t & q => y; t => q; q & t & i => y; t => y; t & y & i => q; q & i => y; y & i & q => t; y & q & i => t; q & i & t => y; q; i;
+ASK
+q
+"
+"TELL
+s => n; c & s => n; c & n => s; n & s => c; c => n; s => c; s & n => c; s & c => n; c => s; n; s; c;
+ASK
+n
+"
+"TELL
+x & a => v; x & y => i; a & x & i => v; v => x; y => v; x & v => i; a & y & x => i; x & a & v => i; x; y;
+ASK
+a
+"
+"TELL
+b & y => z; z & w & b & y => k; k & z => b; y & k & w => z; k & w & b => z; k & y & z => w; z & b => k; b & z & y & k => w; k & y => z; z;
+ASK
+y
+"
+"TELL
+b & d & k => y; b & x & d => k; d & y & k & b => x; b => x; x => y; d => x; k => d; y; k; x; d; b;
+ASK
+d
+"
+"TELL
+k & t & s => r; s & k => f; s & k & f & t => r; r & k & f & t => s; s & k & t => f; t; s;
+ASK
+k
+"
+"TELL
+y & q => v; q & y & b => v; y => v; b => y; q => v; q & y => v; q; v;
+ASK
+b
+"
+"TELL
+y & j & i => d; d => y; d & j => y; j & y & d => i; j => y; i => y; y; j;
+ASK
+i
+"
+"TELL
+v & f => y; y => q; v & y => f; y => f; q => v; y & q & f => v; v & q & f => y; q => y; f; q; v; y;
+ASK
+f
+"
+"TELL
+u => t; t => z; u => z; z => t; z & u => t; t => u; t & z => u; z & t => u; t & u => z; t; z; u;
+ASK
+t
+"
+"TELL
+e & v => a; a => e; u & v => a; a & u & e => v; a & e & u => v; e; v;
+ASK
+v
+"
+"TELL
+n & v => l; v => l; v => n; l => n; l & n => v; v & l => n; n & l => v; n => v; v & n => l; l & v => n; n => l; l; v;
+ASK
+l
+"
+"TELL
+m & z & g & y => p; z & y => m; g & z => m; g & y => m; p & m & y & g => z; y & p & g => m; m & g & p & z => y; g & m & z & p => y; p & y & z => m; p;
+ASK
+y
+"
+"TELL
+v => s; v => u; s => u; u & s => v; v & u => s; s => v; s;
+ASK
+u
+"
+"TELL
+c & z => o; u => z; z => o; c => r; o & r => z; u & c => o; r & z => c; u => o; c => z; z & o & u & r => c; u & c & z & o => r; u; r;
+ASK
+z
+"
+"TELL
+y & v => c; y & v & q => c; q & j & c => v; y => j; y & j => v; v & j => q; v & c => y; v & j & y => c; q; c; y; j; v;
+ASK
+c
+"
+"TELL
+p & v => h; v & p & a => h; h & p => a; h => p; h & v & p => a; v & p => a; a => h; h & a => p; p & a => v; h => a; p & v & a => h; p & v => a; a; h; p;
+ASK
+h
+"
+"TELL
+l => k; y & h => k; l => y; y => k; y & p & l => h; y & l => p; h & y & p => l; h => y; l => p; p => h; p => k; l & y => h; k; p;
+ASK
+h
+"
+"TELL
+d & n & b => t; t => i; b & i => n; d & t & b & n => i; b & d => n; d & t & n => b; n => d; n; t; d; i;
+ASK
+i
+"
+"TELL
+a => v; a => n; n & a => v; n => a; v => a; n => v; n & v => a; v & n => a; v & a => n; n; v; a;
+ASK
+v
+"
+"TELL
+f & l => p; f => p; l => f; f & p => l; p & l => f; p => f; f => l; l & p => f; p & f => l; l & f => p; f; l; p;
+ASK
+l
+"
+"TELL
+l & g => b; l & g & w => b; l & b & w => g; b & w & g => l; l & b => g; w & g & b => l; g & l & b => w; b & g => w; b => w; l; g; w; b;
+ASK
+w
+"
+"TELL
+l & x => s; s & p & l & x => c; c & p & l => s; s => x; s => l; c & s & x & p => l; s & x & c & p => l; l & s & p => x; l => x; c => l; c => x; s & x & c => l; x; s; p;
+ASK
+l
+"
+"TELL
+m => p; p & a => m; p => a; m => a; m & p => a; a => m; p & m => a; m & a => p; a;
+ASK
+a
+"
+"TELL
+m & g & h & w => z; g & w & m => z; h & g => m; m & z & h => g; w & h & g => m; z & h & m & g => w; h;
+ASK
+z
+"
+"TELL
+s => n; r => a; n & r => a; n => s; s => a; n & r & s => a; r => n; n & a => r; n & r => s; n & a & s => r; n & a => s; a; s; r;
+ASK
+r
+"
+"TELL
+a & u => h; h => u; h & u => a; a => u; u => a; a & h => u; u & a => h; u & h => a; h => a; h & a => u; a; h; u;
+ASK
+u
+"
+"TELL
+m & z & n => t; t & z => n; m => t; m & n & t => z; z => n; z & t => n; z & t & n => m; n => m; m & z & t => n; n & m & t => z; n => t; m; t; z;
+ASK
+z
+"
+"TELL
+t & o => m; o & a & m => t; m => o; a & m & t => o; m => a; a => m; t => a; m; a; o;
+ASK
+m
+"
+"TELL
+k & g => p; x => p; y => g; x & g & y & k => p; g & x & y => k; x & y & g & k => p; x; k;
+ASK
+y
+"
+"TELL
+m & k & d => u; m & c => k; c => m; k & c & u & d => m; d & c & m => u; m; c;
+ASK
+m
+"
+"TELL
+v & x & n => i; n & v & i => e; n & e & v & i => x; v & n => x; e => i; e & x => n; x => n; n; e; x;
+ASK
+i
+"
+"TELL
+q => w; k & m & w => p; m & q & w & p => k; w => p; w & m & q => p; q & w & p => k;
+ASK
+m
+"
+"TELL
+s & w => i; w & s => i; s => w; s & i => w; s => i; w & i => s; i => w; w => s; i & w => s; i & s => w; w => i; i => s; s; i;
+ASK
+i
+"
+"TELL
+c & l => n; c & n => u; l & u => n; n & l & c => u; u & n => l; n & u & c => l; l => n; c => u; u => n; n & c & u => l; c & n => l; c & u => n; l & u & c => n; n; u;
+ASK
+n
+"
+"TELL
+w & r & j & b => f; b & r => w; w & j & b & r => f; f & w & r & b => j; f; j; r;
+ASK
+w
+"
+"TELL
+d => k; d & m => b; d & n => m; d & n & m => k; k; n; m; d; b;
+ASK
+n
+"
+"TELL
+s => m; m & n => e; m & s & e => n; m & e & s => n; s => e; e => n; n & s & e => m; n;
+ASK
+e
+"
+"TELL
+s => y; y & s => c; c & s => y; y => c; y & c => s; c & y => s; c => y; s => c; y; s; c;
+ASK
+y
+"
+"TELL
+u & a => n; v & a & n => u; a & v => u; a & n & u => v; u & v => a; n; v;
+ASK
+n
+"
+"TELL
+i => e; e & i => b; i => b; b => e; e => i; b & e => i; b => i; i & b => e; e => b; e;
+ASK
+i
+"
+"TELL
+m => c; f & m => c; m => f; c => f; f & c => m; c => m; f; c;
+ASK
+f
+"
+"TELL
+r => k; r & t & c => k; t & k & c => r; t & c & k => r; r & k => t; t & r => k; c & r & k => t; k & r & t => c; t & c => k; c & k => t; r & k => c; k & c => r; r & t & k => c; t; r;
+ASK
+t
+"
+"TELL
+l & i & u => p; l & i & u => k; k & i => l; l & i & k => u; l & i => p; l & k & p & i => u; i & p & l => k; l;
+ASK
+k
+"
+"TELL
+n & s => k; k & r => n; k => r; r & s => n; k & r & s => n; r & s & k => n; n & r & s => k; s & k & r => n; n; k; r;
+ASK
+n
+"
+"TELL
+w & j & y & d => t; t & d => j; y & w & d => t; j & w & y => t; j => w; t & d & j & y => w; y & d & t & w => j; y; t; w; j;
+ASK
+j
+"
+"TELL
+t => d; t & b => d; b => t; d => b; b & t => d; b => d; t & d => b; d => t; d & b => t; d & t => b; b & d => t; t => b; t; d; b;
+ASK
+b
+"
+"TELL
+k => u; v => u; u & s => k; k & s & u => a; a & k => s; u & a => k; k & v & u => s; k; u; s;
+ASK
+a
+"
+"TELL
+y & g => w; g & y => w; g => w; g => y; y => g; y => w; w & g => y; y & w => g; w & y => g; w => y; y; g; w;
+ASK
+g
+"
+"TELL
+t & y => r; t => r; r & t => y; t => y; y => r; y & r => t; y; t; r;
+ASK
+r
+"
+"TELL
+k => e; l & e & k => b; k & b & l & d => e; e & d & k & b => l; b & e & k => d; d & l & b => k; l & d & e & k => b; d & b & k & l => e; l & d => e; b & e & d & l => k; l;
+ASK
+k
+"
+"TELL
+r & d & p => o; d => p; d & o & r => v; r & p & v & o => d; r & o & d & v => p; r & p & o & v => d; v; o; p;
+ASK
+d
+"
+"TELL
+q & g & n => j; z & q & j => n; z & q & j & g => n; q & n & z & j => g; z => g; q & g & z => j; z & n & g & j => q; z & q & g & j => n; n & z => g; g & j & z & n => q; q => z; n; g; q; z;
+ASK
+q
+"
+"TELL
+k => j; j => k; q & k => j; k => q; q & j => k; q;
+ASK
+q
+"
+"TELL
+u => t; u => b; b & o & t & a => u; o => a; a => o; b & u & a & t => o; a => u; o & a & u & b => t; u & b & t => a; a & b & o => t; b & u => o; t; a;
+ASK
+b
+"
+"TELL
+z => m; y => z; m => z; y & z => m; m => y; m & z => y; z & m => y; m & y => z; y => m; z => y; y & m => z; y; m;
+ASK
+z
+"
+"TELL
+z & d & h & t => i; h & t => i; i => z; i & z & t & h => d; z => d; z & h & i => t; z & h & i & t => d; z & h & d => i; i & h & z & t => d; t; h; z; i;
+ASK
+t
+"
+"TELL
+f => a; a => f; m => f; m => a; f & m => a; a => m; a & m => f; m & f => a; a & f => m; f => m; m & a => f; f; m; a;
+ASK
+a
+"
+"TELL
+u & c & y => f; u & f & y => k; k => u; k & c => y; k => f; u & k & c & f => y; y & k & c & f => u; y;
+ASK
+c
+"
+"TELL
+a & d => x; x & d & a => i; d & i => a; x => d; d => x; i & d => a; a => d; d & x => a; x & a & d => i; x; a;
+ASK
+i
+"
+"TELL
+i & f => r; f => i; f & i => r; f & r => i; i => r; i & r => f; r & f => i; r => i; i => f; r & i => f; f => r; f; i; r;
+ASK
+f
+"
+"TELL
+b => j; h & j => d; d => b; b & d => j; d & h & j => b; h => d; j => d; b & j => h; h & b => d; d; h; b;
+ASK
+b
+"
+"TELL
+f & q => n; w & f => n; n & f & q => w; f => n; q => n; w & f => q; q & w & f => n; n & w & q => f; w & q & n => f; f => q; f;
+ASK
+f
+"
+"TELL
+v & c & e => s; e => c; e & c => v; s & v & e => c; s => e; c & e => v; v => c; c & e & v => s; v; c;
+ASK
+v
+"
+"TELL
+j => b; b & i & l & u => j; i & l & j & b => u; l & i => u; b & u => l; l & j & i => u; l => b; l; j; i; u; b;
+ASK
+i
+"
+"TELL
+m & k => z; m => k; k => z; z & m => k; m & z => k; z & k => m; z => k; m => z; k; m; z;
+ASK
+k
+"
+"TELL
+r => k; k => r; r & q => k; k & q => r; q => r; k & r => q; k => q; r & k => q; q & k => r; k; q;
+ASK
+k
+"
+"TELL
+m & y & c => u; y & c => m; u & y => c; j & u & m => y; y & c & u & j => m; c & m & y & u => j; m & j & y & u => c; c => m; c; j;
+ASK
+y
+"
+"TELL
+h => r; h & r => p; p => r; p & h => r; p => h; h & p => r; r => h; p & r => h; r & p => h; r & h => p; r => p; r; h; p;
+ASK
+h
+"
+"TELL
+y & g => u; b & y & d & u => g; u & d & g => y; b & y & u => d; y & d & b => g; y & d & g => b; y & b & d & u => g; y & d & u & g => b; y & u & g & d => b; b & d => u; y; u; b;
+ASK
+u
+"
+"TELL
+y & e => p; p & y => e; x & y => e; x; e; p;
+ASK
+e
+"
+"TELL
+h & t & u & a => n; a & t => n; a & u => h; n & u & a & t => h; u & h & t & a => n; a => t; t & u => a; h => n; h => a; u & n & a & t => h; n; t; h;
+ASK
+a
+"
+"TELL
+n => e; e => u; n & u => e; u => e; e & u => n; e & n => u; u & e => n; u => n; n & e => u; n; e; u;
+ASK
+u
+"
+"TELL
+e => k; x => e; k => x; x => k; e & k => x; e & x => k; k & x => e; x & e => k; x & k => e; x; e;
+ASK
+e
+"
+"TELL
+a & y => d; a & d => y; d => y; y & a => d; d & y => a; y & d => a; a => d; a => y; y => a; y; a;
+ASK
+y
+"
+"TELL
+m & y & v & l => q; v & m & y & l => q; l => v; l & v & q => m; l => q; q & l => m; l; m; y;
+ASK
+q
+"
+"TELL
+x => y; t & x => y; x & t => y; y & x => t; t => y; y & t => x; y => x; x & y => t; t => x; x; t; y;
+ASK
+t
+"
+"TELL
+h & i => l; i => l; l => i; h & l => i; i => h; h => l; h => i; h; i;
+ASK
+l
+"
+"TELL
+f => i; i & m & r => f; i & f => m; f & r & i => m; m & f => i; r & i => m; i & r => m; f & r & m => i; m;
+ASK
+f
+"
+"TELL
+p & w => j; p & g & j => w; g & p & w => j; p => w; j => g; g => p; g; w;
+ASK
+g
+"
+"TELL
+b & r => d; r & d => b; r & b & v => d; v => r; r & d => v; d & v & b => r; v => b; v; d; r;
+ASK
+d
+"
+"TELL
+q & w => j; a & j => x; x => j; a => x; j & x & q => w; w => x; a & q & j & x => w; x & j & w => q; j & w & a & x => q; q & j => w; q & a & x => w; a; w;
+ASK
+x
+"
+"TELL
+q & m => r; q => r; m => r; m & q => r; r & m => q; r => q; q & r => m; q => m; q; r;
+ASK
+q
+"
+"TELL
+s => r; r => s; n & f & r => s; r & n & s => f; f & n => s; r & n => f; f => r; f; s; r;
+ASK
+s
+"
+"TELL
+d & z => k; k => z; k & z => d; z & k => d; k & d => z; z => k; d;
+ASK
+k
+"
+"TELL
+d => g; p & d & i => g; p & d => i; d & g & p => i; g; d; p;
+ASK
+g
+"
+"TELL
+h & n => v; v => n; v & n => h; h => v; n & v => h; v => h; h => n; h & v => n; n => v; n => h; n & h => v; v & h => n; n; v; h;
+ASK
+n
+"
+"TELL
+l & a => z; z => l; a & z => l; a => l; l & z => a; l => a; l; a; z;
+ASK
+z
+"
+"TELL
+w => i; w & z => i; z & l => i; i => l; w => z; i => w; z & w => l; l & z & i => w; w => l; l; w; z;
+ASK
+i
+"
+"TELL
+a => q; d & q => a; a & d => q; q => a; d => q; a & q => d; q & d => a; d & a => q; a => d; q; d;
+ASK
+a
+"
+"TELL
+s & z & m & f => e; m => f; e & z & s & f => m; z & f & s & m => e; f => e; s & z & f & e => m; f => z; f; e;
+ASK
+e
+"
+"TELL
+f & u => z; u => f; z => f; u => z; z & u => f; u & f => z; f => u; z => u; u & z => f; z & f => u; f & z => u; f => z; f; u; z;
+ASK
+z
+"
+"TELL
+b => o; m & b => o; m => o; h => o; o & m & h => b; b & h & o => m; h & m => o; m; o; b;
+ASK
+h
+"
+"TELL
+u => f; d & f => u; f => d; u => d; u & f => d; d & u => f; d => u; f => u; u & d => f; f & u => d; d => f; f & d => u; f; u; d;
+ASK
+d
+"
+"TELL
+r & o & m & i => d; o & d & m => r; d & m => o; d & i & m & r => o; d => i; o & d & m & i => r; o & d & i & m => r; d => r; i & o & d & m => r; d & o & m => i; r & o => d; i & o => m; i & o & r & d => m; i & r & o => d; m;
+ASK
+i
+"
+"TELL
+t & r => w; r => t; w & r => t; r & w => t; w => t; w & t => r; t & w => r; t => w; t; w; r;
+ASK
+r
+"
+"TELL
+i & j & m => q; q & m & i => j; i & q & m => j; q & i => m; i => j; i => m; j => q; m => q; m => i; j;
+ASK
+j
+"
+"TELL
+u & q & b => m; u => b; q & b & m => u; q & m & u => b; b => m; u & b & m => q; m & b => u; u => m; m => q; q => m;
+ASK
+u
+"
+"TELL
+t & i & g => b; b & i => t; t & b => g; i => g; i & b => t; i & t => b; g => b; b => i; b => g; i => t; g => t; g & i & b => t; g; b; i;
+ASK
+b
+"
+"TELL
+j & k => p; p & k => j; k & j => p; k => j; p => j; p => k; j => p; k; j;
+ASK
+j
+"
+"TELL
+l => x; q & t => l; x => q; l; t; q; x;
+ASK
+l
+"
+"TELL
+y & g => e; e & y => g; g & y => e; g => y; g & e => y; y & e => g; e => y; y => e; y; g; e;
+ASK
+e
+"
+"TELL
+s => t; t & s & w => v; w => t; v & w & t => s; v & s => t; t; s;
+ASK
+s
+"
+"TELL
+n => g; b & n => g; n & b => g; n & g => b; g => b; b => g; n => b; b & g => n; g & n => b; n; b;
+ASK
+b
+"
+"TELL
+u => c; c & q => u; c & v & q => u; q => v; u => v; c;
+ASK
+v
+"
+"TELL
+d & l => j; j & d => l; d => j; l & d => j; l & j => d; l => d; j & l => d; l => j; j => l; d & j => l; d => l; l; j;
+ASK
+l
+"
+"TELL
+j & l & g => y; l & j => g; l => g; j & l & y => g; g & y & j => l; l & g & j => y; l; g; y; j;
+ASK
+j
+"
+"TELL
+c => i; c => h; i => c; i & c => h; i & h => c; c & i => h; h & i => c; h & c => i; i => h; c & h => i; h => i; i; h; c;
+ASK
+c
+"
+"TELL
+t => d; f & d => t; w & d & t => f; t & f => d; w & f => t; w & d => t; d => t; w & d => f; t & d & f => w; d => f; w & t => d; t; w;
+ASK
+f
+"
+"TELL
+j & d => s; d & m => j; s & j => m; s & d & m => j; d => m; m; d;
+ASK
+j
+"
+"TELL
+u => s; s & u => w; u & w => s; w => s; w & s => u; s; u; w;
+ASK
+u
+"
+"TELL
+u => z; z => s; u & s => z; u & z => s; z & u => s; z => u; z & s => u; s => u; s => z; s & u => z; u; s; z;
+ASK
+u
+"
+"TELL
+r => f; e => f; e & f => r; f & r => e; r => e; f => e; f => r; e & r => f; f; e; r;
+ASK
+f
+"
+"TELL
+a & t & m => y; a => m; y & a & t => m; a & y => m; y; m; t; a;
+ASK
+t
+"
+"TELL
+x & b & z => s; e & z => x; b & z & s & x => e; e & z & x & b => s; e => z; z & e => s; s & e => z; z & e => x; z & s & e & x => b; e & z & x => b; e;
+ASK
+z
+"
+"TELL
+x & b => d; b & d => x; b => x; d => b; x => b; d & b => x; x => d;
+ASK
+x
+"
+"TELL
+o => k; d => k; k & d => o; d & o => k; d & k => o; o & d => k; k & o => d; k => d; o;
+ASK
+o
+"
+"TELL
+i & j => s; j & s => i; s & i => j; i => j; i => s; s; i;
+ASK
+s
+"
+"TELL
+i => q; q & b => i; b & q => i; q => b; i & b => q; q & i => b; b => q; b & i => q; q => i; i & q => b; q; i;
+ASK
+q
+"
+"TELL
+q => p; q & z => p; z & q => p; p & q => z; z; p;
+ASK
+z
+"
+"TELL
+w & q => i; q & i => w; i => q; w & i => q; i & w => q; i => w; q => i; w; i;
+ASK
+w
+"
+"TELL
+z & q => s; q & x & s & z => p; x & p & s => q; p => s; z => p; z & p & s & x => q; x & q => s;
+ASK
+q
+"
+"TELL
+l & d => i; d => t; l & d & i => t; d & i & l => t; t; i;
+ASK
+t
+"
+"TELL
+q => w; q & w & d => z; w & z & q => d; z & w => d; d & z => w; z & q & d => w; z & w & q => d;
+ASK
+w
+"
+"TELL
+m => q; m & q => z; z & q => m; z & m => y; i => m; q & y & i => z; z => i; y & i & m => q; q => z; m; q; z;
+ASK
+z
+"
+"TELL
+r & e => b; e & r => b; r => b; b => e; b => r; r => e; e; b; r;
+ASK
+e
+"
+"TELL
+f => i; s => f; f => s; f & s => i; s => i; s & f => i; i & f => s; i => s; f; s; i;
+ASK
+i
+"
+"TELL
+f & g & i & x => c; c => i; f => i; g & c & x => f; c & x => i; f & c & g => x; c & i & x => g; i & g & x => c; g & i & c => f; f & i & c & g => x; x & c & g => i; c & g => x; c;
+ASK
+c
+"
+"TELL
+u & s => a; x & a & u => s; x & u => s; u => x; u & x => s; a => u; s & x & a => u; x; s;
+ASK
+s
+"
+"TELL
+n & j => e; n & z & e => j; z & j & e => n; j => n; e => n; z & e & j => n; j & n => z; n; z; e; j;
+ASK
+j
+"
+"TELL
+u => s; t & p => u; s & t => p; u & t & s & p => n; p & n & s => t; n & s & t => p; u & s => p; p & u & t => s; t => n; p & u => t; t => s; p;
+ASK
+t
+"
+"TELL
+v & l & q & g => e; q & l & g => v; g & q & e => l; l & g => e; e & l & g => v; e & v & l & q => g; g & l => e; g & l => q; g & l & v => e; v & g & l => q; e & v & g & q => l; l; q; g; e;
+ASK
+q
+"
+"TELL
+m & a & j => h; a => m; j & h & m => a; j & a & h => m; j & h => m; m; h; j;
+ASK
+a
+"
+"TELL
+i & z => m; z & m => i; i & m => z; i => z; i => m; m => i; z => i; m & z => i; z & i => m; m & i => z; m => z; m; z; i;
+ASK
+z
+"
+"TELL
+u => t; t & n => u; u & n => t; t & u => n; t => u; u & t => n; u => n; t => n; n & u => t; n => u; n; t; u;
+ASK
+u
+"
+"TELL
+y & g => r; y & r => g; g & r => y; y => g; r => g; r => y; g & y => r; r & y => g; r & g => y; y; g; r;
+ASK
+g
+"
+"TELL
+p & x & a => c; p & c => x; p & a => x; a => p; c & a & x => p; a; p;
+ASK
+p
+"
+"TELL
+y & g => w; w & g => v; y => g; y & g => v; g => v; y & w => v; v => w; v & w => y; y; w;
+ASK
+y
+"
+"TELL
+w => a; w & m => a; a => m; m & a => w; a & m => w; w;
+ASK
+w
+"
+"TELL
+b => m; b & m => q; b & q => m; m & b => q; m => b; q => b; q & m => b; m => q; q => m; m & q => b; b => q; q & b => m; m; q; b;
+ASK
+q
+"
+"TELL
+h & b => a; b & a => h; h => b; a => h; h => a; a & b => h; a;
+ASK
+b
+"
+"TELL
+f & i => h; h => f; f & h => i; h & f => i; h; i;
+ASK
+i
+"
+"TELL
+f & h => g; g => h; f => h; f & g => h; h & f => g; h => g; g & f => h; g => f; h => f; h & g => f; g & h => f; f; g; h;
+ASK
+g
+"
+"TELL
+q => h; b & m & h & q => n; q => n; q & b & h => m; b & n & h & q => m; m => q; b => h; b;
+ASK
+m
+"
+"TELL
+p => x; u & x => p; u => p; p => u; x & p => u; u; p;
+ASK
+x
+"
+"TELL
+s & w & h & j => o; h & w & o => j; w => o; j & h => s; w => s; j => h; s & j & o => h; w => h; w; o; h; j;
+ASK
+o
+"
+"TELL
+m => j; j & m & x => t; m & t => j; t & m => x; x & m => j; x & m & j => t; t & m & j => x; j & t => m; t & j => m; m & x & t => j; x; m;
+ASK
+m
+"
+"TELL
+v & q & g => z; g & k & v => q; k & z & q => g; v & g => q; k => q; z => q; g & z & v & k => q; v;
+ASK
+g
+"
+"TELL
+q & f => y; q => f; f => y; y => f; y & q => f; q & y => f; q => y; f => q; y & f => q; f; q; y;
+ASK
+y
+"
+"TELL
+v => e; v & e => z; z & e & i => v; z & e => v; z => v; i => v; v; i;
+ASK
+i
+"
+"TELL
+b & w & z => s; s & b => z; w & b => z; z => w; s & z & b => w; w => b; z & w => b; b => w; z; b;
+ASK
+b
+"
+"TELL
+y & i => b; y & k & b & i => r; b & r => y; r => y; b & k => i; k; i;
+ASK
+y
+"
+"TELL
+y & a => b; b & a => n; y & a & n => b; b => n; y => b; a => b; b & y => a; n & a & y => b; n & b => a; n & y => b; n => b; n; a; b;
+ASK
+a
+"
+"TELL
+q => l; q & b => l; q => b; l & q => b; b => l; l & b => q; l => q; b & l => q; l => b; l; q;
+ASK
+l
+"
+"TELL
+c & o & r => k; r & o => c; c => o; c => k; r & k => c; r;
+ASK
+k
+"
+"TELL
+a & q => b; a => q; a => b; b => a; q & b => a; b & a => q; q & a => b; b & q => a; b => q; a & b => q; q; a; b;
+ASK
+b
+"
+"TELL
+i & o => s; o & v & m & s => i; m => v; o => v; o & s & i => m; i & s => m; s & v & o & i => m; i & m => o; o & m & v => i; s => v; v; i;
+ASK
+m
+"
+"TELL
+e => m; t & f & e => m; m & t => f; f & e & t => m; f => m; m => f; e & m => f; t => f; t & f & m => e; e & f => m; f => t; m; e;
+ASK
+t
+"
+"TELL
+l & x => c; s & c & b => l; c & l => b; x & l & c => b; s & c & l => b; c & s & x => l; l & s => x; s;
+ASK
+x
+"
+"TELL
+w & j => p; p => j; w => p; j => w; j & p => w; w => j; w; j; p;
+ASK
+p
+"
+"TELL
+l => g; l & g => a; r & l => g; g => r; a & l & r => g; g & r => l; g & l & a => r; r => g; l; a;
+ASK
+r
+"
+"TELL
+q & x & r => z; z & q & x => h; r => h; h & z & q => x; h => x; h => z; h & r & q => x; x; q; r;
+ASK
+r
+"
+"TELL
+n & s => a; v => s; a => n; a & s & v => n; v & s => a; n => a; n & s => v; v & s & a => n; s & v & n => a; n & a & v => s; v;
+ASK
+n
+"
+"TELL
+s => r; h => r; s => h; r & h => s; h & s => r; r & s => h; s & h => r; s & r => h; h & r => s; s; r; h;
+ASK
+h
+"
+"TELL
+y => z; y & p & z => c; c & p & z & k => y; p & z & c => y; z & p & c & k => y; k => y; p & c & z => k; k & y & z => p; k & p & c => y; c & p & k & z => y; k & y & z & p => c; c & p & y & z => k; y; c;
+ASK
+z
+"
+"TELL
+t => e; e => f; t & f => e; t & e => f; t => f; e & t => f; e & f => t; f => e; e => t; f => t; f & t => e; f; e;
+ASK
+f
+"
+"TELL
+y => z; z => f; z & f => y; f & z => y; f & y => z; y & z => f; z => y; f => z; y; z; f;
+ASK
+y
+"
+"TELL
+s => r; s & l & b => r; r & b => s; s & l & r => b; r & b & l => s; l & s & b => r; r & l & s => b; l;
+ASK
+l
+"
+"TELL
+q => l; i & l => u; q & l => t; t & l & i & u => q; u & l & i & t => q; t => i; q & t & l => u; t & q & u & i => l; i & t & u & q => l; l & i & u & q => t; l => t; l => q; t & u & i => q; q & i & u => l; t;
+ASK
+u
+"
+"TELL
+f & e & s => g; s & f & g => e; f & e => s; s & g & f => e; e & f => g; g => s; g & e & f => s; e & g & s => f; f;
+ASK
+g
+"
+"TELL
+n => q; r & i & q & m => n; n & m => r; i & n & q & r => m; r & m & n & i => q; i & n & q => m; r & m & q => n; i & q & r & m => n; m; q;
+ASK
+q
+"
+"TELL
+z & m => f; z & f => m; z => m; z => f; f => z; m => f; f & z => m; f & m => z; m & z => f; f => m; m & f => z; m => z; f; m; z;
+ASK
+m
+"
+"TELL
+e => s; e & z => s; z => s; s & z => t; s => e; e & t => z; z & e & t => s; s & z => e; t & e => z; t => s; s;
+ASK
+e
+"
+"TELL
+m => l; l & q => i; l & m => q; i & m & l => q; q & l => i; q => m; m & i => q; i & l => q; q; i;
+ASK
+m
+"
+"TELL
+n & i => d; n => i; d & n & i => c; i & d => n; c => n; n & d & i => c; i & c => n; i & d & c => n; c & i & d => n; c & n & i => d; n; d; c; i;
+ASK
+d
+"
+"TELL
+w & d => z; w & c => z; z => w; w => d; z & d & c => w; c & z => w; d; w;
+ASK
+z
+"
+"TELL
+n & q & y => j; q & y & n & p => j; y & j & p & q => n; n => q; p & y => q; q => y; n; p;
+ASK
+q
+"
+"TELL
+s & a => m; s & m & a => t; m & a & t => s; t & s => a; t => a; t & m => s; a; s;
+ASK
+a
+"
+"TELL
+u => b; u & b & x => y; x => b; b & y => u; y & b => u; b => y; y & u => b; y & x => b; b & x & u => y; x & b & y => u; u & y => x; y; u; x; b;
+ASK
+x
+"
+"TELL
+c & p => n; n => c; n => p; p => c; c => p; p & n => c; p & c => n; c & n => p; c => n; p => n; n; c; p;
+ASK
+n
+"
+"TELL
+a & l => i; i => a; l & a => i; a & i => l; i => l; a => i; l => i; i & a => l; l => a; l; a; i;
+ASK
+i
+"
+"TELL
+i & b => f; f => i; b & f => k; f & i => k; f & k => b; f & b => i; b & i & k => f; k & f & b => i; k & i => b; k & f => i; i & k & f => b; k => i; f & i & k => b; f; b;
+ASK
+b
+"
+"TELL
+y & e => x; y & f & x & e => u; e & x & y & u => f; u => x; x & y => e; e & u & x => y; y & u & f => e; u => y; u & y & e => x; e; u;
+ASK
+f
+"
+"TELL
+w & n => h; w => n; h => w; n & h => w; h & n => w; h & w => n; n => h; w => h; n => w; n; w; h;
+ASK
+h
+"
+"TELL
+n => e; c & n => e; n & c => e; e & c => n; c & e => n; e & n => c;
+ASK
+c
+"
+"TELL
+t & r => w; r => t; r & t => w; r => w; w & r => t; r & w => t; w => r; w => t; t => r; w & t => r; t => w; t; w; r;
+ASK
+r
+"
+"TELL
+n & r => b; n & b => r; r => n; r & n => b; n => b; b; r;
+ASK
+r
+"
+"TELL
+f & h => u; u => f; h => u; f => h; f => u; h & u => f; u & h => f; f & u => h; u => h; h & f => u; h => f; u & f => h; f; u; h;
+ASK
+h
+"
+"TELL
+b & g => f; g => y; f & g & y => b; f => y; y => f; b => y; g & y => f; f & y & g => b; f => b; f => g; f & b => g; f; g;
+ASK
+f
+"
+"TELL
+b & y => q; q & b & y => u; y & b & q => u; u => q; y & u & q => b; u & q & y => b; u & q => b; u & y => q; u & b & y => q; b => q; q => y; y; q;
+ASK
+b
+"
+"TELL
+o & z & g => h; z => h; z => g; z & g => o; g => o; z & g => h; h & z => g; g; h; z;
+ASK
+z
+"
+"TELL
+i => e; e & f => o; o => f; f & o & i => e; o & v & i & e => f; e & o & f => i; e & f & v => i; e & f => v; v & o & i & f => e; f; e; v; i;
+ASK
+e
+"
+"TELL
+b & f => x; q & x & f => b; x & f => q; f & m & b & q => x; b & x & q & f => m; x & q => b; f => b; m => x; x; b;
+ASK
+q
+"
+"TELL
+m => u; b & u => m; m => b; u & b => m; u => m; u & m => b; m & b => u; m; u; b;
+ASK
+m
+"
+"TELL
+j & a & w & c => d; j & c => w; c & j & d => w; a & j & d => c; j & w & a => c; a & j & w & c => d; w & a & c & d => j; d & j & c & a => w; w & d & j => c; d & c & a & j => w; j & a & c => w; w & j & c & d => a; d; a; c;
+ASK
+d
+"
+"TELL
+w & o => b; o & b => w; b & w => o; w => b; o => w; w; o;
+ASK
+o
+"
+"TELL
+g & m => e; m => e; e => m; e & g => m; m & e => g; g => e; e => g; g & e => m; g => m; e & m => g; m & g => e; m => g; m; g; e;
+ASK
+m
+"
+"TELL
+l & m & x => a; l & a & p & m => x; x & p => m; x; m; l;
+ASK
+p
+"
+"TELL
+p & y => n; y => p; y & p => n; y & n => p; y => n; n & p => y; p & n => y; p => n; y; n; p;
+ASK
+y
+"
+"TELL
+o & u & j & r => w; w & r => u; w & o & r => j; w & r & u => j; r & j & u => o; o;
+ASK
+r
+"
+"TELL
+s => n; n & b => s; s => b; n => s; b => n; s & b => n; n & s => b; b & n => s; s & n => b; n => b; n; s; b;
+ASK
+s
+"
+"TELL
+m & w & j & t => e; m & j & t => w; j & m & w & e => t; e & w & m & j => t; t & j & m & w => e; m & t & j & e => w; m;
+ASK
+t
+"
+"TELL
+q & l & i => m; m & q => i; i & q => m; i & l => m; i & m & l => q; l; m; i;
+ASK
+m
+"
+"TELL
+t & n & b => v; t & b & v => n; t & v => b; b => t; v => t; n & v & b => t; v & t => n; t & v => n; t => b; n => b; b & v => t; v & t => b; v => b; t; b;
+ASK
+b
+"
+"TELL
+o & g & k => n; g & k & n & o => i; i & n & g => k; k & g & n & i => o; k & o & n & g => i; k => n; o => g; n & o & g & i => k; k; i; n; g; o;
+ASK
+g
+"
+"TELL
+r => m; n & r => m; n & m => r; n => m; r & n => m; n; m;
+ASK
+n
+"
+"TELL
+r & w => u; u & w => r; r => w; w => r; u => w; w => u; r & u => w; u; w; r;
+ASK
+r
+"
+"TELL
+r => s; b & r => s; r & s & b => l; r & s => l; b => l; s & r & l => b; s;
+ASK
+r
+"
+"TELL
+i & v => h; o & h => i; o & v & w & i => h; w & v => i; h => w; h & o & w & v => i; h & v & o => i; h & w & o & v => i; v & i => o; v & i & h => w; v; w; o; i;
+ASK
+i
+"
+"TELL
+l & d & c => k; l => k; k & l & d => c; d & k & c => l; l & c & d => k; k & l => d; d & l & k => c; c & d => l; d & k => l; l & c => k; c & d => k; k => d; k; c;
+ASK
+k
+"
+"TELL
+b & k => y; j => k; y & b & j => k; b => y; j => y; y & j & b => k; y; j;
+ASK
+y
+"
+"TELL
+k => u; v => u; v => k; p => w; k & w & u => p; p => u; k => v; u; v;
+ASK
+u
+"
+"TELL
+e => c; q => c; e & q => c; c => q; c => e; c & e => q; q => e; e & c => q; c & q => e; q & e => c; e; q; c;
+ASK
+c
+"
+"TELL
+u => c; j & u => c; u & o & j => c; j => c; c & o => j; j & u => o; c & u & j => o; c & u & o => j; c & o => u; u => j; u; c;
+ASK
+c
+"
+"TELL
+g & u & q => w; w & g => u; q & g => w; w => q; g & w => u; u & q => g; g & q & w => u; u;
+ASK
+u
+"
+"TELL
+o => e; e & w & h => o; h & o & w => e; h & w => e; e & w => h; w => h; e; w;
+ASK
+o
+"
+"TELL
+e => a; a & e => m; m & e => a; m => a; e & a => m; a => e; m; e; a;
+ASK
+m
+"
+"TELL
+r => k; k => x; x => k; r & x => k; k & x => r; x & k => r; k & r => x; x => r; x; k; r;
+ASK
+x
+"
+"TELL
+g & b & p => i; g & p => i; p & g => i; p & b => g; i => p; b; i;
+ASK
+i
+"
+"TELL
+g & i => r; r => a; r & i => g; i => a; r => g; i & r => a; a & i => r; a => i; i & r => g; g & i & a => r; i => r; g & r & a => i; g; a; r;
+ASK
+a
+"
+"TELL
+c & b => l; l => c; b => c; c => b; c & l => b; b & l => c; l; c; b;
+ASK
+l
+"
+"TELL
+a => v; v & o => a; a & v => o; o => v; o => a; o & a => v; a & o => v; a => o; v => a; o & v => a; v => o; v; a; o;
+ASK
+a
+"
+"TELL
+k & r => o; b & l => k; l => k; r & k => b; k => r; k => o; o & b & k => r; k; o;
+ASK
+r
+"
+"TELL
+k & d => u; k & u => i; u & i & d => k; k & d => i; k & i & u => d; d => u; k & i & d => u; u & d & i => k; d & u => k; k => i; u => i; k; d; i;
+ASK
+k
+"
+"TELL
+z => h; z & h => e; h & z => e; z & e => h; e & z => h; e; h;
+ASK
+h
+"
+"TELL
+v & i => k; k & v => i; k & i => v; i => k; i & k => v; i => v; k;
+ASK
+v
+"
+"TELL
+k & t & b => d; k => t; k & d => o; t & k & d & b => o; o => t; k; o; b;
+ASK
+d
+"
+"TELL
+y & s & l & k => f; l & f & y & s => k; f & l => s; f & y => l; l => s; l & f => k; y & k => l; f; l;
+ASK
+l
+"
+"TELL
+f & b & q => z; z & b & o => q; o & f & z => q; b & q & z & f => o; q & z => b; o => q; q & f => b; q & f => o; o => b; z; o; f;
+ASK
+q
+"
+"TELL
+s & g => w; g => w; s & w => g; w & s => g; s => w; g & s => w; w => s; g => s; w & g => s; s; g; w;
+ASK
+s
+"
+"TELL
+o & k => w; k => o; w & k => o; o => w; k => w; k;
+ASK
+w
+"
+"TELL
+s => n; s & x => n; n => s; n & s => x; x & s => n; n & x => s; s => x; s & n => x; n => x; x => n; x; n;
+ASK
+x
+"
+"TELL
+l & w => g; g => w; g & l & w & a => u; l & w & g & a => u; g => a; l & a => u; g & l => a; u & l & w & a => g; u & a & l => g; g;
+ASK
+g
+"
+"TELL
+q & w => u; w & u & v => q; v & u & q => w; q => w; u & w => v; v & u => w; u => w; q & u => v; q => v; v & w & u => q; u & v & q => w; u & w & q => v; q; u; w;
+ASK
+w
+"
+"TELL
+i => q; x & i => q; x => q; i & q => x; i & x => q; i => x; x & q => i; q => i; q;
+ASK
+q
+"
+"TELL
+g => w; q => g; g & k & q => w; g & k & w => q; w & g & k => q; g & w & k => q; w & q => g; w => q; q => k; g => k; k => w; w => g; k; g; q;
+ASK
+w
+"
+"TELL
+r & h & j & d => x; h & d & x => j; h => x; x => j; h; j;
+ASK
+d
+"
+"TELL
+q & r => k; k & r => e; q & k => e; r & e & q => k; k & e & q => r; q & k => r; e; q;
+ASK
+r
+"
+"TELL
+s & x => w; d & w => x; w => x; d & w => s; d & w & x => s; d & s & w => x; w & d & s => x; d;
+ASK
+s
+"
+"TELL
+b & p => u; p & b => w; b & u => w; w => b; u; b;
+ASK
+p
+"
+"TELL
+f & o & b & z => m; b => f; o & f => m; z & m => o; f & z & o => m; f & m & z & o => b; z & f => o; o & f & z & m => b; z;
+ASK
+b
+"
+"TELL
+h => p; t => a; t & h => a; t & a => p; t & p & a => h; h & a => t; a; t; h;
+ASK
+a
+"
+"TELL
+a & h => b; a => b; h & b => a; h & a => b; h; b;
+ASK
+a
+"
+"TELL
+j => u; j & s => x; u & z & s => x; s & u => z; x; u; s;
+ASK
+u
+"
+"TELL
+z & n => j; g & r => j; j & r & g => z; j & z & g & r => n; g & j & r => z; j & g & n => z; g & j & z => r; n; g;
+ASK
+n
+"
+"TELL
+c => b; t & c & w & b => n; b & c & n & t => w; b => c; t; c; n; w; b;
+ASK
+t
+"
+"TELL
+t & l => c; c & t => l; l & c => t; l => t; t => l; t => c; l; t; c;
+ASK
+c
+"
+"TELL
+s => t; t & r => o; o & s & r => t; s => o; t => o; o => t; r & s & o => t; t; s; r;
+ASK
+t
+"
+"TELL
+m => d; d & k => m; d => k; k => m; m & d => k; k & d => m; d & m => k; m & k => d; k => d; k; m; d;
+ASK
+d
+"
+"TELL
+s => g; g & x => s; s => x; s & x => g; x & g => s; s;
+ASK
+x
+"
+"TELL
+x => k; g & v & w & k => x; x & k & g => v; g & k & w & v => x; v & k => w; w & x & g => k; x; k; v; w;
+ASK
+w
+"
+"TELL
+s & f & y => m; y & m => f; m & s => f; m & f => s; m; s;
+ASK
+y
+"
+"TELL
+u => l; l & u & r & w => t; u & r & t & w => l; t & r & l => w; l & w & u & r => t; l; t; w; r;
+ASK
+l
+"
+"TELL
+f & t => b; b => t; b => f; f & b => t; b & f => t; b & t => f; t & f => b; f => b; t & b => f; f => t; t => b; f; t; b;
+ASK
+b
+"
+"TELL
+l => c; l & z => d; c => d; d => c; z => d; c;
+ASK
+l
+"
+"TELL
+h & k => c; h => r; x => h; c => r; h => x; h & x & c & k => r; x; r;
+ASK
+c
+"
+"TELL
+x => h; x & z => h; x & h => z; z => x; z & h => x; x => z; z & x => h; h => x; h => z; h & x => z; x; z;
+ASK
+h
+"
+"TELL
+a => v; v & d => p; p => a; v => p; d & p => a; v; a;
+ASK
+a
+"
+"TELL
+n & h & x => s; x & h => s; h => n; h & x & n => s; x => n; s & n & h => x; n & s & h => x; x & n => h; h & s & n => x; n; s; h;
+ASK
+h
+"
+"TELL
+l => k; o & l & k & v => s; l => o; s => l; l => v; o & s & k & v => l; o & k & s & v => l; v & l & o & s => k; k;
+ASK
+s
+"
+"TELL
+a => v; q => a; q & g & a => v; q & p => a; v & g => p; g & a & p => q; q & a & v => g; v; a; p;
+ASK
+p
+"
+"TELL
+i & k => z; i & k & d => z; z & d => k; d & i & k => z; i & k & z => d; z & d & k => i; k & z => i; k & i & d => z; k & z => d; z => k; k => d; k; z; i;
+ASK
+z
+"
+"TELL
+d & n & w & o => j; n & d & o & w => j; o & n & j => w; d => o; n & w & j => d; o => w; j & o & w & n => d; j;
+ASK
+n
+"
+"TELL
+r => a; a & r => i; a => q; a & i => r; q & i & a => r; i & q & r => a; r & q & i => a; r & q => a; q => i; r & a & i => q; q; i; a; r;
+ASK
+q
+"
+"TELL
+f & z => y; i & j => y; z & f => i; j & y => f; j & f => y; j => f; i => y; z => i; i & f & j => z; j & f => i; y; j; i;
+ASK
+i
+"
+"TELL
+m => j; s => m; s & m => j; m & j => s; j & m => s; j & s => m; s & j => m; j => s; j => m; m & s => j; s; j;
+ASK
+j
+"
+"TELL
+f & v & r => z; v => z; f & z => v; r & z => f; v => f; r & f & v => z; v & z & f => r; v & f => z; v & z => f; f & v & z => r; v; r;
+ASK
+z
+"
+"TELL
+a & z & d => w; z => w; d & z & w => a; d => w; a & d & w => z; z & w => a; w & a => z; d & a => w; w & d => a; d; a; w; z;
+ASK
+a
+"
+"TELL
+k & t & y => e; k & e & y => t; k => e; e & t & k => y; e & k => t; t => y; y & k & t => e; e & k & t => y; k & t & e => y; y & k => e; y; k; t; e;
+ASK
+e
+"
+"TELL
+e => s; s => m; m & q & e => l; e & s => l; e & s & m & l => q; q & e => m; q & e & m => s; l & q => e; s & e => l; q & e & m & l => s; l; m; e; q;
+ASK
+s
+"
+"TELL
+s => k; s => g; k & g => s; s & g => k; g & k => s; k => s; s & k => g; k => g; g => s; g => k; k & s => g; g & s => k; k; g; s;
+ASK
+k
+"
+"TELL
+c & o => t; o & t => c; t & o => c; t => o; t & c => o; c => t; t => c; o;
+ASK
+t
+"
+"TELL
+i & j & r => y; y & j & r & i => q; q & y & i & j => r; q => r; j => q; i & y & q & j => r; j & r => i; r => j; y; j; r;
+ASK
+y
+"
+"TELL
+v & b => f; v & a => f; b & f => y; f => a; v & f & b & a => y; b => f; f & v & b & a => y; f & y => b; y & v & f & a => b; f => b; a => y; a & y & f => b; y; a; v;
+ASK
+v
+"
+"TELL
+m => j; m & j & k & r => i; k => m; i => j; j & i & r => k; i => r; i & j => k; k; m; j; r;
+ASK
+r
+"
+"TELL
+r => f; t & r => f; r => b; t & f & r => b; b & f => t; b => r; t; b; r;
+ASK
+t
+"
+"TELL
+u => s; m => u; s => m; m & u => s; m => s; s & m => u; u & s => m; m & s => u; m; u;
+ASK
+s
+"
+"TELL
+d & s => l; s & l => d; s => l; s => d; s & d => l; d;
+ASK
+s
+"
+"TELL
+n & q & v => p; v => n; p & n & v => q; v => p; q => p; q & v => n; q & p & v => n; p & n => v; v & q => p; n => v; n & p & q => v; p => n; q; v;
+ASK
+q
+"
+"TELL
+m & e & q => a; a & m & e => q; e => a; e & q & m => a; m => a; a => e; e & m & h => q; h & m => q; h => e; m; q;
+ASK
+a
+"
+"TELL
+s & b => l; l => c; l & b & c => s; b & c & l => s; c & l & s => b; l & c & s => b; b & s & l => c; b & c => l; b & c & s => l; l => b; s; b; c;
+ASK
+l
+"
+"TELL
+t & b & y => n; q & y => n; n => q; n & t & q & b => y; y & q & t & b => n; t & b & n => q; q & b & y & n => t; t & b & n & q => y; q & n => y; q & y & n => t; y; q; b;
+ASK
+y
+"
+"TELL
+s & z & n => h; s => h; n => s; z => n; z => s; n & a => z; h => z; n => h; s & z & n & a => h; a;
+ASK
+z
+"
+"TELL
+d => n; u & d & n => y; d & n & y => u; u => y; u => n; n; u;
+ASK
+d
+"
+"TELL
+a & i => u; a => u; u => a; i & a & x => u; a & u => x; i => u; i => x; a & x & i => u; u => i; x; a; i;
+ASK
+i
+"
+"TELL
+d => g; o & e => u; g & d & e => u; d & o & e => g; d & u => o; u => e; u & o & d & g => e; d & e & u & o => g; g; e; d;
+ASK
+g
+"
+"TELL
+c & d & z => v; z & d => v; d & v => z; z & c & v => n; z => d; v => d; c => v; c & d => n; c & v & d => z; z & c & n => v; d; c;
+ASK
+n
+"
+"TELL
+d => n; d => k; d & k => n; k & d => n; k => n; n; k; d;
+ASK
+k
+"
+"TELL
+l => m; m & o => z; m & l & z => o; o & m => z; l; o;
+ASK
+o
+"
+"TELL
+t => i; i & r => t; r & t => i; r & i => t; i & t => r; r => i; i => t; t & r => i; t; i; r;
+ASK
+r
+"
+"TELL
+v & e => j; v => e; j & v => e; j => e; e => j; e & j => v; e => v; j => v; j & e => v; v => j; v & j => e; e; v; j;
+ASK
+e
+"
+"TELL
+e => f; e & l => f; e => l; f => l; l => e; f => e; l & e => f; f; e; l;
+ASK
+l
+"
+"TELL
+i => a; a & i => f; i & a => f; f => a; f & i => a; a & f => i; f; a;
+ASK
+a
+"
+"TELL
+q & v & f => l; q & v => l; f => l; f & q => l; f & v => l; l => q; f => v; f; v; l;
+ASK
+f
+"
+"TELL
+e & o => w; o => e; o & w => e; e => o; w & e => o; o & e => w; w => o; o => w; w => e; e; w; o;
+ASK
+e
+"
+"TELL
+m => p; a & m & p & l => r; r & a & l & p => m; m => a; a & r & l & m => p; m & p => r; m & r => l; a & l => r; m; a; r; p;
+ASK
+r
+"
+"TELL
+f & j & y & x => o; x => y; j => o; x & o & y & j => f; y & f & j & x => o; o & y => x; j & y & f => x; y => o; j & f => y; j => y; x & f & y & o => j; y => x; y; x; f;
+ASK
+o
+"
+"TELL
+s & q & r => p; k & s => q; k & r & p & q => s; q & r & s => k; p & s & q & r => k; p;
+ASK
+s
+"
+"TELL
+m & f & g & p => w; p => m; m & w & f => p; p => w; g & w & m & p => f; f & g & m & p => w; g & f & m => w; m; w; p;
+ASK
+w
+"
+"TELL
+n & t & j & p => u; n & u & t & p => j; n & j & u => t; t & n & p & u => j; p & t & n => j; t & u & p & n => j; j & p & n => u; t; j; p;
+ASK
+n
+"
+"TELL
+p & w => o; e & w & o => p; w & p & o => e; e => p; w & e => p; e; w; p;
+ASK
+o
+"
+"TELL
+i & p & n => f; f => l; p & i => f; n & p & l & i => f; i & l => f; i & p => f; n & l & f => p; l & i & n & p => f; f; l; i;
+ASK
+f
+"
+"TELL
+h & m & s => n; n & m => h; m => s; n & s => m; n & s => h; s & h & m => n; n => m; h => m; m & h & s => n; s & h => n; s;
+ASK
+h
+"
+"TELL
+r & w & v & j => b; v & w & b & j => r; w & b => j; w => r; w & r & j & b => v; v & j & w & r => b; r => v; w & v & b & r => j; b & w => r; b & v & r => j; r & w => j; w & j & v & r => b; j & r => b; v; b;
+ASK
+r
+"
+"TELL
+h & e => w; w & b => h; b => e; h & b => w; e & w & h => b; e => h; e & h & b => w; w => e; w & e & b => h; b & e => w; e; h; b;
+ASK
+b
+"
+"TELL
+t & m & d => v; d & t & v => m; m => t; t => m; d => t; d & v => m; v & d & t => m; m & v => d; m & t => d; m; t; d; v;
+ASK
+v
+"
+"TELL
+m & y => t; m => c; y & c & t => m; t => y; y & c => t; c & t & y => m; c & y & t => m; y & m & t => c; y => m; c & m => t; t => c; y; m; c;
+ASK
+y
+"
+"TELL
+e & d & c & y => s; y & d & e & c => s; c & e => d; c & e => y; s => d; c & y & s & d => e; s & y & c => e; y & s & e & c => d; y; d; e; s;
+ASK
+e
+"
+"TELL
+c => g; g => c; c & t & l => g; c & l & t => g; t & g & l => c; l & c & g => t; t => g; t & l & g => c; t & l & c => g; g; t; c;
+ASK
+t
+"
+"TELL
+y & b & m => k; m & y & l => k; y & l => m; k & m & y => b; b & k & y & m => l; y => l; l & k & b & y => m; k & b & y & m => l; y; m; b;
+ASK
+y
+"
+"TELL
+w & z => r; r & z => w; w => r; z => w; z & r => w; z & w => r; z => r; w; z; r;
+ASK
+w
+"
+"TELL
+o & a & l => w; n & w => o; l & a & o & w => n; w & a & n & o => l; w & a => n; n => o; w => o; a & o => w; l & w & a & n => o; o => l; w & o & a => l; l & o & n => a; l; a;
+ASK
+o
+"
+"TELL
+y => f; w => y; y & w => f; w & f => y; f; w; y;
+ASK
+y
+"
+"TELL
+z & e => g; p & g => y; y & e & p & z => g; z & e & p & y => g; p & y & z => g; z & e & g & y => p; g;
+ASK
+e
+"
+"TELL
+j => i; i => j; q & j => i; q => j; i & j => q; j & i => q; j => q; q & i => j; q => i; j; i;
+ASK
+j
+"
+"TELL
+b & u => p; p & n & b => u; n & b => p; p & u & n => b; p & b => u; n & u => p; n; b; p;
+ASK
+u
+"
+"TELL
+r => k; r & k => j; k => r; j => k; j & k => r; j => r; r & j => k; k & r => j; r => j; k; r;
+ASK
+r
+"
+"TELL
+n & r & v => d; e & n & d => v; n => r; d & e => v; d & n => e; r & v & d & e => n; v & e => n; v => r; v & n & e => r; n; e;
+ASK
+e
+"
+"TELL
+x => a; a => x; a => f; m => f; a & f => x; a => m; a & x & f => m; f & a => m; f => m; m => x; f; m;
+ASK
+x
+"
+"TELL
+x & g & v => i; x => s; x & v & i & g => s; g & s & x & v => i; x & i & v => g; g => x; s & x => v; v & i & s => x; v & x & g & s => i; g => s; s & g & x & i => v; s & g & v & i => x; v; s; i;
+ASK
+x
+"
+"TELL
+e & k & r => n; e & k => r; r & e & s => k; r & n & k => e; k & s & n => r; r => n; n & e & k => r;
+ASK
+n
+"
+"TELL
+i => q; i & x & q => v; q & v & i & c => x; x & i => v; c & q & v => x; q & i & x & c => v; v & x => q; q & x & i & c => v; v => i; v & i & x & q => c; v & c => q; x & c & i & q => v; x & q & i => v; x; i;
+ASK
+c
+"
+"TELL
+w & b => t; q => w; t & q => w; b => t; t; b;
+ASK
+q
+"
+"TELL
+l & f => g; l & g => f; l => g; g => f; l; g;
+ASK
+f
+"
+"TELL
+c => g; c & g => s; g => c; s => g; c & s => g; g => s; g & c => s; s & c => g; s => c; g & s => c; s & g => c; g; s; c;
+ASK
+g
+"
+"TELL
+v & o => y; y & v => o; o => v; o & v => y; v & y => o; o => y; y => o; y => v; v => y; o & y => v; v => o; y; v; o;
+ASK
+y
+"
+"TELL
+g & o => q; g => q; q => g; o & g => q; q & g => o; o & q => g; g => o; g & q => o; q & o => g; q => o; q; o;
+ASK
+o
+"
+"TELL
+u & p => k; i & z & k => p; p & k & i => z; u & z & p & i => k; u & k & p => i; p & u => z; u & z & i & p => k; i => u; k & u => z; p & u & z => k; u & z & k & p => i; u; i;
+ASK
+z
+"
+"TELL
+a & i => f; a => c; c & i => a; a; c; i;
+ASK
+i
+"
+"TELL
+q => e; u & j & q => e; q & j & u => e; q; e; j; u;
+ASK
+q
+"
+"TELL
+i & h => k; k & v & h & q => i; k & q & v => h; h => v; k; i;
+ASK
+i
+"
+"TELL
+c & n => d; n & c => d; n & d => c; d => c; c => n; d; c;
+ASK
+n
+"
+"TELL
+o & z & n => r; z & n => r; o => n; z => o; z & o & n => r; n & r => o; r & o => z; z & r => n; r => z; n => z; o & z & r => n; n; o; z; r;
+ASK
+z
+"
+"TELL
+j & f => b; j & x => b; b & f & j => x; j & b => x; f & j => b; j & f & x => b; x; j;
+ASK
+f
+"
+"TELL
+s => k; k & l => s; l => k; l & s => k; s => l; s & l => k; k => s; k => l; k & s => l; l & k => s; l => s; s & k => l; l; k; s;
+ASK
+k
+"
+"TELL
+y & i => j; i & y => j; j => i; v & i => j; y & v => j; y => j; y => v; v & y => j; j => v; v => i; i => y; v; j;
+ASK
+v
+"
+"TELL
+s & k => q; k & q & x => s; x => k; q & k => s; k & x & s => q; x; q; s;
+ASK
+x
+"
+"TELL
+m & d => y; d & y => o; o => y; d => o; m & o => y; m & y => o; m & d & o => y; d => m; y & d => m; m;
+ASK
+o
+"
+"TELL
+p & a & j & z => t; t & j => a; j & a & z => p; p => z; z & j => t; t & z & p & a => j; j & z & p & t => a; t & p => j; z; p;
+ASK
+z
+"
+"TELL
+k => x; v & k => x; s & v & x => k; v & x & k => s; s => v; x; k; v; s;
+ASK
+x
+"
+"TELL
+p => a; a => t; p & t => a; t & p => a; a => p; t => a; t & a => p; t => p; t; a;
+ASK
+a
+"
+"TELL
+y & m & k => q; s => k; q & s & k => y; k & q => s; y & s => q; q => k; q & s & m & k => y; y; k; s;
+ASK
+k
+"
+"TELL
+h & d & k => m; m & k & d => h; k & d & h => m; m & h => d; m & d & k => h; k & h & m => d; k; d; h;
+ASK
+m
+"
+"TELL
+n & x => m; d & m => q; m & n & x => d; x; m; d;
+ASK
+n
+"
+"TELL
+t => z; t & y => g; g & q => y; y & z => g; g & y => t; z & y => q; q & g & y & z => t; z & t & g & y => q; t & z => g; q & g => t; y; t; z;
+ASK
+y
+"
+"TELL
+f & y => i; y & i => f; f => y; y => f; i => u; y => u; i & f => u; f & i => y; u => i; y; u; f; i;
+ASK
+f
+"
+"TELL
+y & o & t & b => u; u & o & y & b => t; t & u & b & y => o; y & t & b & o => u; y & b & t => u; o;
+ASK
+u
+"
+"TELL
+y & d => q; d => y; y => q; q & d => y; d & y => q; q => d; d & q => y; q => y; y & q => d; y; q;
+ASK
+y
+"
+"TELL
+d => g; n => g; n & d & o => g; n & o => g; g & n => o; g => n; g => o; d & n & g => o; o => d; d & n => g; n; g; d;
+ASK
+g
+"
+"TELL
+l & w => j; j => l; w => j; j => w; l; w;
+ASK
+w
+"
+"TELL
+g & r => n; r & g & s => n; n & g => r; r & s & n => g; n; s; r;
+ASK
+r
+"
+"TELL
+d & h => p; p => d; h & p => d; p & d => h; h; p;
+ASK
+h
+"
+"TELL
+z & k & i => s; s => k; s & z => i; s => i; i & z => s; z & s => k; z => k; k & s & i => z; k; z; i;
+ASK
+z
+"
+"TELL
+s => r; r => w; s & w => r; s => w; r & s => w; w => s; s & r => w; w & s => r; s; w; r;
+ASK
+r
+"
+"TELL
+g & q => n; q & n => g; q & d => n; n & q & g => d; q & d & n => g; g; q;
+ASK
+n
+"
+"TELL
+x & e & p => t; e & d => x; t & x & d & e => p; x; t; e; d;
+ASK
+d
+"
+"TELL
+m => d; m & d => q; d => q; q & m => d; m => q; q => m; m; q;
+ASK
+d
+"
+"TELL
+f & a & l & p => w; l & a => p; a & l & f & w => p; a & f & w & p => l; a & w & p => f; w & a & l => p; l & p => f; f & p => a; l; p;
+ASK
+w
+"
+"TELL
+c & p => n; n & c => p; n => p; n => c; p => c; p & n => c; c => p; c & n => p; p & c => n; c => n; n & p => c; p => n; n; c; p;
+ASK
+c
+"
+"TELL
+f & w & j => p; f & p => j; j => f; f & p & w => j; w; p;
+ASK
+w
+"
+"TELL
+h => q; h => u; u & h & q & w => b; q => b; b & q & h => u; b => q; b & u & h & w => q; w; b;
+ASK
+q
+"
+"TELL
+n & x => g; j & g => x; n & x => j; x => n; g & x => j; j => n; j => g; g & n & x => j; n; g; j;
+ASK
+g
+"
+"TELL
+l & a & f => m; f => m; f => a; f & m => a; f => l; a => m; l & f & m => a; l & a => f; a & f => m; a & l => m; a & f => l; l; m; a; f;
+ASK
+m
+"
+"TELL
+m => r; r => o; e => r; h & e & m => o; m; e; r;
+ASK
+r
+"
+"TELL
+g & w => n; n => g; g => w; w => n; n & g => w; w & n => g; g => n; w & g => n; g & n => w; n => w; n; g; w;
+ASK
+w
+"
+"TELL
+t => u; m => u; t & u => m; m & t => u; t; u;
+ASK
+t
+"
+"TELL
+z & k & d => n; z & g & n => d; g & k & d => n; n & d & z => g; k => n; z & k & g & n => d; k & g & z => n; d & g => n; k; n; g; d; z;
+ASK
+g
+"
+"TELL
+p => x; i & p => d; x & i & d => p; d & x & p => i; d & p => i; p => i; i & x => d; i => p; i & d => x; x; d; p;
+ASK
+x
+"
+"TELL
+t => m; o & m & h => q; h & m => t; m & t & h & q => o; q & h => m; t & m => o; q & m & t & h => o;
+ASK
+m
+"
+"TELL
+n => s; n => q; s => q; q => n; q => s; s;
+ASK
+s
+"
+"TELL
+j & w => h; h => j; w & j => h; h => w; j => h; h & j => w; w => h; w; h;
+ASK
+j
+"
+"TELL
+t => d; t & b => d; d => e; e & b & t => d; b => e; b & t => d; b & e => t; t & e & d => b; t & d & e => b; d; b;
+ASK
+d
+"
+"TELL
+a => t; a & l => t; a & l & t => w; t => l; w & a & l => t; a & l => w; w;
+ASK
+t
+"
+"TELL
+d => p; d & c => p; c & h => p; c => d; p & h & c => d; c & d & p => h; h; c;
+ASK
+c
+"
+"TELL
+y => e; l => y; l & e => y; l => e; e & y => l; y => l; l & y => e; y & l => e; e => y; y & e => l; e & l => y; e => l; y; e; l;
+ASK
+y
+"
+"TELL
+a => n; b => n; a & b & n => h; a => h; h => n; n => b; a & h => n; a & h & n => b; n; h; b;
+ASK
+a
+"
+"TELL
+t & r & i => f; f & t & i => r; t => i; f => t; f => r; i;
+ASK
+i
+"
+"TELL
+c & b => r; c & z => r; b & r => z; b & c => z; b & r => c; z & r => c; b & z => r; r & b & z => c; r => z; z & c => r; r & c => z; c; z;
+ASK
+z
+"
+"TELL
+e & m & o & q => w; w & e & m & o => q; q & m & e & o => w; w & e & o & m => q; e & m & w & o => q; m & e & q => o; o => q; e => w; q => e; w => e; q; m; e; o;
+ASK
+e
+"
+"TELL
+p & v => t; v & p & o => t; v & o => p; v & t & p => o; v => p; v & t => p; t => o; v => o; p => o; v & o & t => p; t; v; o;
+ASK
+o
+"
+"TELL
+c => i; s & i => c; s => i; c & i => s; i => s; c; i;
+ASK
+c
+"
+"TELL
+d & w => p; d => p; w & p => d; p => w; w => d; w => p; p & w => d; d => w; w & d => p; p & d => w; p => d; w; d; p;
+ASK
+w
+"
+"TELL
+o & h => j; j & o => h; h & j => o; o => j; o => h; j => h; o; h; j;
+ASK
+o
+"
+"TELL
+w => p; d & a & p => w; a => d; a => w; w & d => a; a; p;
+ASK
+w
+"
+"TELL
+o & y & c => i; y => i; i & c => y; o & i & y => c; y & c => o; i => o; o => y; o & i => y; c & y & o => i; c & i => y; i => y; i & c & o => y;
+ASK
+i
+"
+"TELL
+f => x; m => f; m & f => x; x & m => f; f => m; f & x => m; x; m; f;
+ASK
+x
+"
+"TELL
+b & o => n; o & n => b; b & n => o; b => n; n & o => b; n => o; n & b => o; o => b; n; o; b;
+ASK
+b
+"
+"TELL
+q & g & j => x; g & x => q; j => x; q & x & j => g; g => q; x => j; g => x; j & g => q; j & x & g => q; g & j & x => q; g; q; j;
+ASK
+g
+"
+"TELL
+w => m; q & m => n; w & n & m => q; q & w & m => n; n; m; q;
+ASK
+n
+"
+"TELL
+p & c => s; r & s & m & c => p; p & r => c; p & c & r => m; p => s; p & r & c & s => m; m & c & p & r => s; p => c; m & c & p => r; s & c & p => r; m; c; s; p;
+ASK
+s
+"
+"TELL
+r & d => p; d => p; d & p => r; d => r; p => r; d & r => p; p & d => r; r => p; p & r => d; d; p;
+ASK
+p
+"
+"TELL
+i => e; e => i; i & e => l; i => l; l & e => i; l => e; l; e;
+ASK
+i
+"
+"TELL
+e => k; v & e & z => k; z => e; v & z & e & k => t; z & t & v => e; z & e & k => v; e & t & z & v => k; e & k & z => v; e & z & v => t; v; z;
+ASK
+e
+"
+"TELL
+e & d & t & m => o; e & m => t; m => d; e & o => t; m => t; t & o & m => e; m & d => t; d & o => m; m & d & t & o => e; t; d; o;
+ASK
+m
+"
+"TELL
+k => m; n & k & g => m; g => n; n => m; k & m => g; g => m; k => g; n & m => k; n => k; m & g & k => n; k; m; g;
+ASK
+g
+"
+"TELL
+k & w => g; z => w; g => z; k & w & z => g; k & w => z; z => k; w => g; k; z;
+ASK
+z
+"
+"TELL
+m & j & u => i; j & u & i => m; j & u => m; i & m => u; m & u => i; j => u; u & m => i; i => m; u & m & j => i; u; j; i;
+ASK
+j
+"
+"TELL
+v => e; v => p; e & v => p; v & e => p; p => v; e => p; p & v => e; e; p;
+ASK
+e
+"
+"TELL
+s => h; z & s => h; s & z => h; h & z => s; z => s; h => z; s & h => z; z & h => s; s; z;
+ASK
+z
+"
+"TELL
+d & v => c; d => v; v & c => d; d => c; c => v; v => c;
+ASK
+v
+"
+"TELL
+b & e => q; b & w & q => u; b & q => w; e => w; b & e & w => u; u => w; u & q => b; q & w & b => e; q => e; b => w; q; u; w; e;
+ASK
+q
+"
+"TELL
+b & l & u => o; o & l & u => b; o & b => u; b & o => u; b & o & l => u; u; o;
+ASK
+u
+"
+"TELL
+j & h => n; h => j; n & h => j; h & j => n; j & n => h; j => h; h;
+ASK
+h
+"
+"TELL
+r & j => n; n & j & r & w => o; o & j & n => r; w & o & r & n => j; r & o & j => n; n => j; j & n & w & o => r; r & n & j & w => o; o => w; j & r & o & n => w; r & n & o => j; n & j & o & w => r; n; w;
+ASK
+r
+"
+"TELL
+s & r & d & j => m; r & d & m & j => s; s & m & j => d; m & s & d & r => j; s & m => r; j => d; m & s & d => r; m; d; j; r;
+ASK
+r
+"
+"TELL
+z & x => w; w & z => i; w & x & i => a; i => w; z & x & i & w => a; a & x & w & i => z; i & x => z; x & a & i & z => w; z; i;
+ASK
+w
+"
+"TELL
+f & m & d & n => t; d & m & n => t; m => t; m => f; n & t & m => f; d & t & n => f; f & d & n & m => t; n => d; t;
+ASK
+f
+"
+"TELL
+x => s; x & s => t; s => t; t & s => x; s & x => t; s => x; x => t; s & t => x; t => x; t => s; x; t; s;
+ASK
+s
+"
+"TELL
+x => c; x & r => c; c => r; c & r => x; x & c => r; c => x; x => r; x; c; r;
+ASK
+c
+"
+"TELL
+o & u & v => y; o & u & y => v; u & o => v; y & o => v; o => y; o => u; v & y => u; u & y => o; v & u & o => y; o & y => v;
+ASK
+v
+"
+"TELL
+f => m; m => o; u & o & f & y => m; y & m & u => o; y & o => m; m & f => o; y & u & o & f => m; u => m; u & y => f; u & y => m; y; f; u; o; m;
+ASK
+m
+"
+"TELL
+x => i; t & p & i => x; t & i => p; t => i; x & t & i => p; i & t & p => x; x & t => p; x & p & i => t; i & x => p; i & x => t; i => t; t => p; x; t; p;
+ASK
+t
+"
+"TELL
+w & n => u; u & w => o; j & w & n => o; o & j & n & u => w; n & w => j; j & w & o => u; u & w & j => n; u & w & j & n => o; n => w; n; u;
+ASK
+o
+"
+"TELL
+s => y; g & y => i; i & g & s => y; i & g & y => s; i & y => g; s & g => i; i => y; i;
+ASK
+g
+"
+"TELL
+i => q; q => c; i => a; c => a; q & a & c => i; i & c & a => q; i & q => a; c & q & i => a; a => c; c & a => q; q => i; q; a; c;
+ASK
+a
+"
+"TELL
+a & x => n; x & a => n; x => n; x => a; x; a;
+ASK
+x
+"
+"TELL
+t & r & g => p; r & g => p; t => g; r & p => g; g => r; t & g & r => p; p & t & r => g; t; r;
+ASK
+g
+"
+"TELL
+m & f & y => n; y & m & q => f; n & q & f => m; q & n => f; m & q & y => n; m & f => q; n & q & y & f => m; q & y => f; n; y;
+ASK
+m
+"
+"TELL
+p & b & d => e; b & e & d => p; p & b => e; d & p & b => e; d & b & e => p; e => p; e => b; d;
+ASK
+e
+"
+"TELL
+d & u => t; s => b; u => t; s & u => b; d & b & u & t => s; s & t => b; u & d & s => t; d & s & b => t; u & d & b => s; t & b & s => d; s & b & u & d => t; u & t => s; u; b;
+ASK
+t
+"
+"TELL
+h & p => o; o & h => p; h => o; p & h => o; h & o => p; p => h; p & o => h; o => p; o & p => h; p => o;
+ASK
+h
+"
+"TELL
+o => r; r & o & n => j; j & o => n; o & j => n; n & o => r; r => n; j & n & r => o; r => j; o;
+ASK
+o
+"
+"TELL
+f => d; n & y & d => f; y & n => f; f & y => n; f & d => n; y => n; f & n => d; n => f; n; d; y; f;
+ASK
+y
+"
+"TELL
+w & o => m; w & m & g & o => b; b & g => m; g & b => w; o & w & g & m => b; m & o & w => b; w & g => m; b => w; m; g; w;
+ASK
+b
+"
+"TELL
+u & o & h & g => y; u & g & h => y; h => g; h & y & g & u => o; u => h; h & y & o & u => g; y; u; o;
+ASK
+g
+"
+"TELL
+b & p => w; w => p; b => p; w => b; p & w => b; w & b => p; b; p;
+ASK
+b
+"
+"TELL
+r & u & n => j; u => a; r & j => u; j & r & a & u => n; r & j & a => u; j;
+ASK
+u
+"
+"TELL
+l & j => r; j & l => r; r & l => j; l => r; j => r; r & j => l; j & r => l; r => l; l => j; j => l; r => j; l; j; r;
+ASK
+j
+"
+"TELL
+f & a & s => x; a & s & x => f; a => x; s & x & f => a; s => x; a & x => s; f & x & a => s; x & a & f => s; x => f; f & a => s; x; s; f;
+ASK
+s
+"
+"TELL
+b => j; a & j & b => y; j & y => a; y & b & a => j; y & j & b => a; a => b; j => a; y => j; j & b => y; a => y; b & a & j => y; y; b;
+ASK
+y
+"
+"TELL
+b & l => g; l & g => b; g & b => l; g & l => b; g => b; g => l; b => g; g;
+ASK
+g
+"
+"TELL
+s & z => f; f & z & x => s; x => f; z & x & f => s; f; s; z; x;
+ASK
+f
+"
+"TELL
+n & y => g; g => y; g & n => y; y & n => g; g & y => n; y & g => n; y; g;
+ASK
+n
+"
+"TELL
+t => j; t & v => l; j & v => l; t => l; j & t & v => l; v & l => j; l; t; v;
+ASK
+j
+"
+"TELL
+s & n => f; s => n; f & s & y => n; n => s; y => s; y => f; n => y; n => f; s & f => n; s & y & f => n; n; s;
+ASK
+f
+"
+"TELL
+p => x; q & p & c & x => m; q & p => m; x & m & q => p; q & x & c & p => m; x => m; c => x; p & m & x => q; x; m; p;
+ASK
+x
+"
+"TELL
+b & p => w; p => w; w => p; b => p; w => b; p & w => b; w & b => p; w & p => b; p & b => w; b => w; w; b; p;
+ASK
+p
+"
+"TELL
+e => c; l => c; h & l & e => c; l => e; e => l; h => e; l; h;
+ASK
+l
+"
+"TELL
+k & u => g; k => e; g & u & k => e; e & g & u => k; u & g => e; k & g => u; u;
+ASK
+g
+"
+"TELL
+d & w => c; c & y => w; k & y & w & d => c; w & d & k => c; w & c & k => y; y; c;
+ASK
+w
+"
+"TELL
+o & q => t; e & t & q => o; e & o & u => t; u & q & t => o; q & u => e; o & u => e; o & t => e; q & e => o; t & e & u => q; q; u;
+ASK
+q
+"
+"TELL
+l & w => j; s & w => j; l => s; s => a; l; s; w; j;
+ASK
+s
+"
+"TELL
+g & j => z; g => z; g & z => p; z => g; j => p; p & z & g => j; z => j; g; j; p;
+ASK
+p
+"
+"TELL
+n => s; s & d => n; s => d; d & n => s; d => s; n & s => d; n; s; d;
+ASK
+n
+"
+"TELL
+a & m => n; w & m => a; n => a; a & m & w => n; m & w => n; w & n & a => m; a => w; a;
+ASK
+w
+"
+"TELL
+w => h; w & h & u => x; h & w & u => x; x & q => h; w => x; q & w & u => x; q & h & x => u; x & w & u & q => h; w => q; h & w => u; h & u & q => x; q & w => h; x; w; h;
+ASK
+w
+"
+"TELL
+m & e => a; e & a => m; a => m; m & a => e; a & m => e; m; a;
+ASK
+a
+"
+"TELL
+l & d => i; i & l & d => y; l & y & d => i; d & l & y => i; i => l; i & l => d; l;
+ASK
+d
+"
+"TELL
+a & l => p; p => a; p => l; a & p => l; p & l => a; l => p; p & a => l; l & p => a; a => p; l => a; l; a; p;
+ASK
+p
+"
+"TELL
+c & a => l; l => c; l & a => c; a => l; c & l => a; a & l => c; l => a; l; c;
+ASK
+a
+"
+"TELL
+w & u => l; u => l; w => l; w & l => u; u & l => w; u => w; l => u; w => u; u & w => l; l; u; w;
+ASK
+l
+"
+"TELL
+u & y => v; v & u => y; y => v; v & y => u; u => y; u & v => y; y & v => u; y; u;
+ASK
+u
+"
+"TELL
+a => j; w => a; w & a & j => g; j => a; a & g => j; a => g; a & w & j => g; g; w;
+ASK
+j
+"
+"TELL
+b & q => k; q & k => b; q => k; q & b => k; k => b; k & q => b; k => q; q => b; b => k; b & k => q; b => q; k & b => q; k; q; b;
+ASK
+k
+"
+"TELL
+p & f => t; f & h & t => p; p & h => t; t & p & h => f; f & t & p => h; h & f => p; p & h => f; f; p;
+ASK
+p
+"
+"TELL
+z & n => j; w & b & z => j; w & b & n => j; b & j & n => z; b & n => j; z & b & j & n => w; w & j => z; b & z & j & n => w; w => j; j;
+ASK
+w
+"
+"TELL
+t & z => p; t => z; p & z => t; p => z; p => t; z => t; z & p => t; t & p => z; z & t => p; p & t => z; z => p; t; z; p;
+ASK
+p
+"
+"TELL
+g => c; f & g => c; g & l => f; l & g & c => f; g & f & l => c; g & l & f => c; c & l => g; f; g; l; c;
+ASK
+f
+"
+"TELL
+c => h; f & c => h; c => f; c & h => f; h & f => c; h; c;
+ASK
+c
+"
+"TELL
+z & q => h; h => q; q & z => h; z => h; h & z => q; h => z; q => z; q; h; z;
+ASK
+z
+"
+"TELL
+f & a => q; l & f => a; q & l => f; l => q; l; f;
+ASK
+f
+"
+"TELL
+m => c; d & q => c; q & m & c => d; q & d & c => m; d & m & q => c; m;
+ASK
+q
+"
+"TELL
+u & o => c; o => c; c => o; o => u; o & c => u; c & o => u; u => o; c & u => o;
+ASK
+o
+"
+"TELL
+h & a => m; a & h => m; m & h => a; m => a; a => h; a => m; m & a => h; h => a; a & m => h; m => h; h & m => a; m; a; h;
+ASK
+m
+"
+"TELL
+w => n; n => q; q & w => n; q & n => w; q => n; w => q; w & q => n; n; q; w;
+ASK
+w
+"
+"TELL
+s => f; f & s & d => n; d & f => s; f & s => d; f & n & d => s; s => d; n & s & f => d; s & n & f => d; n & f => s; n; s;
+ASK
+n
+"
+"TELL
+c => b; b & c & a => q; a => b; b & a => c; b & c & q => a; a & b => q;
+ASK
+a
+"
+"TELL
+x & r => f; r & f => x; r & x => f; x => r; x; r;
+ASK
+x
+"
+"TELL
+g => h; t => h; h => t; t & g & k => h; k & t => h; h & g => k; g & h & t => k; t;
+ASK
+h
+"
+"TELL
+i & g & s & p => z; p & i & z => g; g & p & i & z => s; s & g => p; s & g & p => i; z => g; z & s & g => p; s & z & i => p; i; p;
+ASK
+g
+"
+"TELL
+x => c; n & x => c; c & x => n; n & c => x; x => n; n => x;
+ASK
+x
+"
+"TELL
+r & e => b; b & r => e; r => b; b => e; b & e => r; b => r; e & b => r; e => b; e; b;
+ASK
+r
+"
+"TELL
+i & o => z; h & i => g; h & g & z & o => i; h => o; i => o; h & g => z; z & o & h => g; h & o & g & i => z; i & z & o => h; o & i & g => z; z; i;
+ASK
+h
+"
+"TELL
+d => e; h & e => d; f & c => h; f => h; e & d & c & f => h; c => f; c => e; e & d & h & f => c; c & d => h; h & e => c; f; h; c;
+ASK
+h
+"
+"TELL
+q => x; x & q => d; x => q; d & x => q; d => x; d => q; x => d; q & x => d; q => d; q & d => x; x & d => q; d & q => x; x; q; d;
+ASK
+d
+"
+"TELL
+w & b & h & z => u; w & z & b & h => u; h => u; z & b => u; h; b;
+ASK
+z
+"
+"TELL
+r => k; k => r; a & g & k & r => c; g & a & c => r; c & a => r; c & g => r; r => g; c; k; a; g; r;
+ASK
+a
+"
+"TELL
+l => f; l & f => w; f & w => l; f => w; l & w => f; f => l; l => w; f & l => w; w & l => f; w & f => l; w => f; w => l; l; w; f;
+ASK
+l
+"
+"TELL
+y & e => x; x & e => y; x => e; x => y; y & x => e; x & y => e; e => x; y => x; y => e; e & x => y; x; y;
+ASK
+e
+"
+"TELL
+n => e; e & d & n => c; d & n & c & e => r; c & e & n & r => d; c & e & r & d => n; r & n => e; e & d & c & r => n; n; d;
+ASK
+e
+"
+"TELL
+s & u => v; s & o => v; v => u; s & o & u => v; o & u & v => s; s => v; o & s => u; u & s & v => o; u => v; u => o; s & v => o; s; o;
+ASK
+o
+"
+"TELL
+f & j & t & a => k; j & t & a => k; j & a & k => f; t & k & f & j => a; j & k => f; t & j & a => f; j & a & f => t; k & t & a & f => j; j & k & t => a; j & f & t => a; t; a; j;
+ASK
+f
+"
+"TELL
+l & i => j; i & j => l; j => i; i => j; i => l; l & j => i; j & i => l; l => i; j => l; l; j; i;
+ASK
+j
+"
+"TELL
+e & s => j; e => s; e => j; j => e; j => s; s; j;
+ASK
+s
+"
+"TELL
+p & q & m => y; y & p => q; p => m; q & y & m => p; y => q; m & p & q => y; m & y => q; q & m => y; m => q; q => m; p & y => m; q; p;
+ASK
+m
+"
+"TELL
+x & o & i & n => f; o & i => f; o & n & x => f; o => n; n & i & x & o => f; o => x; n => x; i => x; i & n => o; n; f;
+ASK
+n
+"
+"TELL
+s => t; s => l; t & s & l => d; t & l & s => d; s => d; d & t & s => l; t & d & l => s; s & l => t; t & d => l; s & d => l; t & l => s; t => s; l; s;
+ASK
+s
+"
+"TELL
+e & r & b & j => u; b & j & e & u => r; j & r & u & e => b; j & b & r => e; j; u; b; r;
+ASK
+e
+"
+"TELL
+t & q & b => g; g & q => t; g & q & b => t; b & g & t => q; g & q & t => b; t & b => g; q & t => g; g & q => b; g => b; q & b => g; t; g; q; b;
+ASK
+q
+"
+"TELL
+d => g; g & d => j; g & j => d; d & g => j; d & j => g; j => g; g => d;
+ASK
+g
+"
+"TELL
+r & u & m => o; o & n & m => r; n => r; r & m => o; m & r & u & n => o; m;
+ASK
+r
+"
+"TELL
+n & a & c => h; h & n & c & a => j; a & n & c & j => h; h & j => c; n => c; c => a; n; h;
+ASK
+h
+"
+"TELL
+b => e; b & e => y; b => y; b & y => e; e & y => b; e;
+ASK
+e
+"
+"TELL
+g => i; l => g; i & l => g; l => i; g & i => l; i;
+ASK
+i
+"
+"TELL
+q => l; q & z => l; l & q => z; z => l; z & l => q; l => z; l & z => q; z => q; l => q; q => z; q & l => z; l; q; z;
+ASK
+l
+"
+"TELL
+s & q => d; y & s & q => d; q & y & s => d; s & q & d => y; d & s => y; d => q; s => q; s & d => y; s & y & q => d; d & s => q; d & s & q => y; q => s; y; d;
+ASK
+y
+"
+"TELL
+p & o => i; n & o & p => i; o & p => n; i & n & o => p; p & o => n; i & p & n => o; o & i & n => p; i & o => p; p & n & o => i; n & i => p; n; i; o; p;
+ASK
+n
+"
+"TELL
+w & x & u => k; k => x; k => u; x & w => k; u & w & k => x; x & u => w; k; u; w;
+ASK
+x
+"
+"TELL
+i & m & j => l; i & j => l; m & l => i; i & j & l => m; i => l; j => m; l => j; j => l; l; m; j; i;
+ASK
+i
+"
+"TELL
+c & a => o; a & c => o; o => c; c & o => a; c => a; a => c; a; c; o;
+ASK
+o
+"
+"TELL
+f & y & b => q; y => p; q & f & y => p; f & b & q & y => p; p & q => f; y => b; f & p & b & y => q; f & y => b; p & q & f & b => y; p & y & b & q => f; y; b; p;
+ASK
+p
+"
+"TELL
+d & l => w; w => d; w & s & l => a; w & d & l => a; w; s;
+ASK
+s
+"
+"TELL
+m & z => o; m => o; z => o; z & m => o; o & z => m; o => m; m => z; z; m; o;
+ASK
+z
+"
+"TELL
+s => y; s & x => c; x => c; y & c => s; s & c => x; c & y => s; c => x; x & y => c; x; s; y;
+ASK
+y
+"
+"TELL
+d & m & f & j => c; j => c; j & f & m & c => d; m & d => c; f & c & m => j; c & m & f & j => d; c & m => f; c => j; d => m; c;
+ASK
+j
+"
+"TELL
+l & f & x => m; p & l => f; p & x => l; l & m & f & p => x; l; p;
+ASK
+p
+"
+"TELL
+r => u; r & u => l; u & y & q => l; l & u & y => q; y & r => l; q => y; u & q => l; q;
+ASK
+r
+"
+"TELL
+s => t; t & s => n; n & t => s; t => n; s & n => t; t => s; n => t; s & t => n; t & n => s; n & s => t; n; t; s;
+ASK
+t
+"
+"TELL
+x => c; x & m & z => c; c & m => x; c => m; m & z => x; x => z; x & m => c; c & m & z => x; z & x & m => c; x; m; c; z;
+ASK
+m
+"
+"TELL
+x & a & c => r; r & x => c; r & x => a; a => x; x & c & a => r; a & r & c => x; a & x => c; c & a & x => r; a & c & x => r; c & x & r => a; x; a; c; r;
+ASK
+x
+"
+"TELL
+c & b => e; g & b => c; c => b; b & c & e => g; b & e & g => c; b & c => g; c & e => b; g & c => e; g; e; c;
+ASK
+b
+"
+"TELL
+o => r; r & i & o => w; r => o; r => w; o & r => i; i & o => w; w & o => i; i => o; i => w; w & r & i => o; w => o; w & r => i; o & w => r; o;
+ASK
+r
+"
+"TELL
+v & g & b => r; r & v & b => g; g & r & v & y => b; b & g => v; y & b & v => r; y => v; r & b & g & v => y; b & g & y & r => v; b => g; b & g => r; g; v; r;
+ASK
+r
+"
+"TELL
+b & h & l & s => e; e & l => h; e & s => l; l => e; h & s => l; h;
+ASK
+h
+"
+"TELL
+b & n => m; b => n; m => b; n => m; n => b; n; m;
+ASK
+m
+"
+"TELL
+r => m; m & h & c & r => f; h => r; f => h; h & r => c; f & c => m; m & f => h; c; h; r;
+ASK
+r
+"
+"TELL
+z => i; z & q => i; q => z; i & q => z; q; z; i;
+ASK
+z
+"
+"TELL
+a & l => s; l & s => a; s => l; s => a; a => s; s & a => l; a & s => l; a => l; l => s; l => a; l; a; s;
+ASK
+a
+"
+"TELL
+s => y; b & y & s => o; l => o; s => l; o & l => b; l => s; o & y & b & s => l; y & s & l => b; o & b & s & l => y; s; l; y; o; b;
+ASK
+y
+"
+"TELL
+b & i => m; i => b; i & b => m; i => m; b => i; b; i;
+ASK
+i
+"
+"TELL
+s & w & e => a; e & a & s => w; s & e => w; w => s; a & w => s; w => e; a & w & s => e; s; a; e; w;
+ASK
+a
+"
+"TELL
+m & j => o; m => j; y & o & m => j; y & j & o => m; m & y => o; o & y => m; m; j;
+ASK
+m
+"
+"TELL
+s & o & i => h; s & h => o; o => h; i & s & o => h; s & i => h; i => s; s; h; o; i;
+ASK
+s
+"
+"TELL
+b => j; s => j; b & j => s; s & j => b; j => s; b; s; j;
+ASK
+j
+"
+"TELL
+m => d; d => k; k => m; k & d => m; d => m; d;
+ASK
+m
+"
+"TELL
+y => t; t & y => a; a & y => t; a => t; y & t => a; t => y; t => a; a & t => y; a => y; y; t; a;
+ASK
+t
+"
+"TELL
+q => c; a => q; q & a => c; q => a; q & c => a; a & c => q; a => c; a; q; c;
+ASK
+c
+"
+"TELL
+n & l => y; y & n => l; n & y => v; v & y => l; y => v; l => v; u & l => n; l => u; y & l => n; u & v => y; n => u; l;
+ASK
+y
+"
+"TELL
+s & p => c; c & s => p; z & p & s => c; c => p; s & p & z => c; s; z;
+ASK
+z
+"
+"TELL
+p & r => m; m => p; r => m; m & r => p; p => m; p & m => r; p => r; r & m => p; r & p => m; m => r; m & p => r; r => p; m; r; p;
+ASK
+r
+"
+"TELL
+p => q; q => p; q & v => p; p & q => v; v & q => p; p & v => q; q; p;
+ASK
+p
+"
+"TELL
+b & h => f; h => b; h & b => f; f => h; b & f => h; f => b; b => f; h & f => b; h => f; b => h; f & b => h; f; b;
+ASK
+f
+"
+"TELL
+u & i & r => t; u & r & t => i; i & u & r => t; u & r => t; i => u; u => r; u; r;
+ASK
+r
+"
+"TELL
+k & g => n; k & n & u => g; k => u; u => g; k & g & n => u; g & n => k; g & k => u; u => n; n & u => g; u & g => k; k & g => u; g => u; n; k; u;
+ASK
+n
+"
+"TELL
+m & d => b; b & m => d; b & d & i => m; b => m; b & d => i; d => b; i => d; m & d => i; m & i & b => d; b => i; i & d => m; m; d; b; i;
+ASK
+m
+"
+"TELL
+a & k & c => q; e => q; e & q & a => k; q => a; q & a & e => c; q => e; k & e => c; c;
+ASK
+k
+"
+"TELL
+o & h & p => r; p & o => r; o & h => p; h & o => r; p & h => o; p & o & h => r; p & h => r; p => h; p & h & o => r; r & h & o => p; h; o; p;
+ASK
+o
+"
+"TELL
+k & p & d & i => h; p & i => d; h & k => d; d & p => k; i & d & h & p => k; i & p & h => d; d & p & h => i; i & d & p => k; d & k => i; i => h; h & i & d & k => p; d; h; i;
+ASK
+i
+"
+"TELL
+v => s; o => v; o & v => s; s => v; s => o; v & s => o; v & o => s; v => o; s & v => o; v; s;
+ASK
+s
+"
+"TELL
+l & p => v; p => l; p => v; p & v => l; v => p; l & v => p; v & p => l; p & l => v; l; v;
+ASK
+l
+"
+"TELL
+r => f; q & r => f; f & q => r; q => f; r => q; f => r; q;
+ASK
+r
+"
+"TELL
+o & u => h; r & m & h & o => u; u & m & r => o; u & r & o & h => m; h & r => m; m => r; m => h; m & h & o & r => u; m; u; r;
+ASK
+r
+"
+"TELL
+h => r; z => h; h => z; z & h => r; z => r; r;
+ASK
+z
+"
+"TELL
+y & x & f & z => t; f => x; x => y; t & x & y => f; x & t => y; f & x & t & y => z; f => t; t => x; y; z;
+ASK
+t
+"
+"TELL
+b => o; r & b & o => l; o & r & l => b; l => r; r & o & l => b; o & l => b; r & l & b => o; r & o => b; b & r => o; o => l; b & r & o => l; l & r => b; l; o; r;
+ASK
+o
+"
+"TELL
+d & k & c & q => x; x & d & q => c; x => k; q & d & x & k => c; k & d & q => x; d => x; d & k & c => q; c & d => q; x & k & q => d; c & x & d => k; q; d;
+ASK
+k
+"
+"TELL
+m & z => p; d => m; d & m & z => p; m; d; z; p;
+ASK
+d
+"
+"TELL
+j & z & a & s => x; a & z & x => s; s & x & a & j => z; s & j => a; s & a & j & x => z; j => a; z & j & a => s; s => j; s & a => j; z & a & s & j => x; j & a & x => z; x & z & a => s; s & a & z & x => j; j;
+ASK
+s
+"
+"TELL
+g => h; g => j; h => j; j & h => g; j & g => h; h & g => j; g & j => h; j => h; h & j => g; j => g; g & h => j; g; h; j;
+ASK
+h
+"
+"TELL
+e => f; e & f => b; b => e; b & f => e; b => f; f => e; f & b => e; e => b; f; e; b;
+ASK
+b
+"
+"TELL
+b => c; s => b; s => c; s & c => b; c; b;
+ASK
+c
+"
+"TELL
+q => l; y & l => q; l => y; l & q => y; y => q; l & y => q; y => l; l => q; q => y; q & l => y; l; q; y;
+ASK
+l
+"
+"TELL
+z => h; d => h; h => o; h & d & q & o => z; z & h => q; d & o & z => h; d; h;
+ASK
+o
+"
+"TELL
+o => r; o & s & l => r; s & o & r => l; l => r; l & s => r; s => l; s & r => l; r => l; s & l & r => o; s & r & l => o; l; s; o;
+ASK
+s
+"
+"TELL
+k => a; k & a => g; a => k; g => a; g & k => a; a & g => k; a & k => g; k; g; a;
+ASK
+k
+"
+"TELL
+c => i; i & k => c; i => c; k => c; c & i => k; c => k; c & k => i; k & c => i; i => k; k => i; k & i => c; i & c => k; k; c; i;
+ASK
+c
+"
+"TELL
+b & w & e => n; n & b => e; n & b & w => e; w & n & b => e; b => e; b => n; e & w & b => n; n & b => w; n & e => w; w => e; b & e & w => n; w & n => b; n; w;
+ASK
+e
+"
+"TELL
+i & u => o; m => u; i & m => u; i => m; i & u & m => o; u;
+ASK
+u
+"
+"TELL
+f => p; n & b => f; p & f => b; b & p & n => f; n & b & f => p; p & b & f => n; n & b & p => f; n => p; p => b; n => b; n & p & b => f; f; b; p;
+ASK
+n
+"
+"TELL
+z & h => p; p & z => v; h & v & z => p; v & z => p; v; p;
+ASK
+p
+"
+"TELL
+i => q; i => c; q => c; q & i => c; q & c => i; i & c => q; i & q => c; q; c; i;
+ASK
+q
+"
+"TELL
+g & t => o; t & o => y; g => o; g & o => y; y; g; t; o;
+ASK
+y
+"
+"TELL
+e & r & j => o; e & o & j => r; e & r => j; o & r & e => j; r & j & e => o; r => j; o;
+ASK
+e
+"
+"TELL
+z & w & f & r => a; z => f; r & w & f & a => z; r & f & w & a => z; f & w => a; f => r; a & r & z & f => w; z & f & w & r => a; a & f => r; f; a;
+ASK
+f
+"
+"TELL
+f & b => p; b & y & f & d => p; p & y => f; p & f & d => y; d & f & b => y; b => p; d & b => y; d & p & y => f; p => b; y & p & f => b; d & b & p & y => f; y; d; b; f;
+ASK
+f
+"
+"TELL
+y & n => c; j & y & c => n; y & c & j => n; y => c; n & j & y => c; y & j => n; c => y; c & j => n; j => n; y & c => n; y & c => j; n; c; j;
+ASK
+n
+"
+"TELL
+j & h & p => f; f => j; f => h; h & p => j; j & p => f; h & p => f; p & f => j; f; j; p;
+ASK
+j
+"
+"TELL
+n & j => q; q => j; j & q => n; j => n; j => q; q & n => j; j & n => q; n; q; j;
+ASK
+j
+"
+"TELL
+e & h => z; z => h; z => e; z & h => e; h & z => e; h & e => z; e => h; h => z; e & z => h; h => e; e; h; z;
+ASK
+z
+"
+"TELL
+k & g => n; f & g & k => s; s & g => k; k & s & g & n => f; s & k & f => g; g & f & k & n => s; f & n & g => s; n & g => k; k & g & n => s; n => f; s & f & k & g => n; f & k & n => g; n; g; s;
+ASK
+k
+"
+"TELL
+u & e & p => q; y & q => p; p & u & q & e => y; u & q & e & y => p; u & q => y; e; u;
+ASK
+q
+"
+"TELL
+p & m => l; m & l => p; m & p => l; l => p; l & p => m; l; p;
+ASK
+p
+"
+"TELL
+b & f => x; f => x; b => x; f & x => b; f => b; x => f; x & b => f; f; x; b;
+ASK
+f
+"
+"TELL
+f => i; d => i; i & f & w => d; d & i => w; i & w => d; i & d & f => w; d => f; w; d; f; i;
+ASK
+w
+"
+"TELL
+z & u & m & d => v; u & z & v => d; v & u & m & z => d; d & u => z; m & d & v & u => z; m => z; m;
+ASK
+u
+"
+"TELL
+f => x; x & f => m; x & m => f; m & f => x; f & m => x; f => m; m => x; f & x => m; x; m;
+ASK
+x
+"
+"TELL
+e & g & x => p; x & p => g; e & g & p => x; g & x => p; x & g & e => p; g & x & e => p; g => x; p & g => e; g & p & x => e; e => x; p & x => e; x & g => p; x; g; p;
+ASK
+g
+"
+"TELL
+i => w; i & w => s; s => w; i => s; w; s; i;
+ASK
+w
+"
+"TELL
+n & u => v; v & n & d => u; v & u & n => d; v => u; u & d => n; n & v => d; n => v; d & u & n => v; u & v => d; n & u & v => d;
+ASK
+u
+"
+"TELL
+n & t => y; y => t; y & t => d; y & n => d; y & t & d => n; t & n => y; y & t => n; y; t; d;
+ASK
+y
+"
+"TELL
+r & h & b => q; h => q; r => b; q & b & h => r; q & r & b => h; b => r; q; h; b; r;
+ASK
+q
+"
+"TELL
+e & l & t => b; b & e & t => l; e & l & b => t; t & l => b; e & b & l => t; b & t & e => l; b & l & t => e; b => l; t & l & b => e; l & b => t; l; t; b;
+ASK
+e
+"
+"TELL
+z => m; m & z & a => i; m & a => i; z & i & m => a; m & a => z; i & z & m => a; m => i; m;
+ASK
+m
+"
+"TELL
+t & r => e; r & e => g; g & r => t; g & e => t; e & g => t; t => r; g & t => r; e => g; g & e => r; r => e; r & g & t => e; r & t & g => e; t; r;
+ASK
+g
+"
+"TELL
+b & m => t; b & y => m; t & y => m; m => t; y & m => b; b & t => y; y & t & m => b; m & b & y => t; m & b => y; m; t;
+ASK
+y
+"
+"TELL
+x => s; x & t => r; s => g; s => t; t & s & x => g; t & r & x & s => g; s & x & r & t => g; t => x; x; t; s; r;
+ASK
+t
+"
+"TELL
+s => k; j & k => s; k => j; j => k; s => j; k => s; j & s => k; s & j => k; k & s => j; k;
+ASK
+s
+"
+"TELL
+a & j => q; j & q => y; y => q; q & c => a; j & q & c & a => y; y => j; a & j => y; c & a & y => q; q & y & a & c => j; y; a; j;
+ASK
+c
+"
+"TELL
+p & k => s; k & p => s; s & p => k; k; s; p;
+ASK
+s
+"
+"TELL
+v & q => i; y => i; y & e & i & q => v; i & e => y; e; v;
+ASK
+i
+"
+"TELL
+e & k & a => o; k & e & o => a; o & k => a; e => o; o => a; k & a & o => e; o & a => k; a => k; k => o; o & k & e => a; e & o => k; e & k => a; k; e;
+ASK
+o
+"
+"TELL
+p => w; w & p => i; p => i; w & i => p; i; p;
+ASK
+w
+"
+"TELL
+p => x; x => c; c & p => s; c & s & x & t => p; t & s & p => c; p & x & t => s; x & c => t; p & c & x & t => s; x => t; t => p; t & p => c; x; t;
+ASK
+t
+"
+"TELL
+c => i; c & i & s => q; q & s => b; i; s; b; c;
+ASK
+s
+"
+"TELL
+f => x; q & i & x => f; i & f => x; x => f; q => i; q;
+ASK
+f
+"
+"TELL
+a => v; r => a; a & r => v; v & a => r; a & v => r; v & r => a; r => v; v => a; r & a => v; r & v => a; v => r; a; v; r;
+ASK
+r
+"
+"TELL
+r => u; r => w; w => r; h & r => u; h => w; r & w & h => u; h & u & w => r; r => h; w & u & r => h; w & h => r; r & u => w; w; h; r;
+ASK
+h
+"
+"TELL
+o & t => a; a & o => t; o => a; t & o => a; t => a; t => o; o => t; a & t => o; o;
+ASK
+t
+"
+"TELL
+k & f => v; p & k & f & l => v; p & l & k & f => v; k & v & f & p => l; f => l; v & l & p & f => k; v & k => p; l & k => v; f & v & l => p; p & f & l => k; k & l => f; l; k; v; p;
+ASK
+k
+"
+"TELL
+e & l & n & u => g; e & l & g => n; u & l & n & e => g; l & e => u; g => e; g => l; u & e => g; g; e;
+ASK
+u
+"
+"TELL
+v => s; o => s; s & v => o; v & s => o; s => v; v; s; o;
+ASK
+v
+"
+"TELL
+g => h; g => j; h => j; j & h => g; j & g => h; h & g => j; g & j => h; j => h; j => g; g & h => j; h & j => g; g; h; j;
+ASK
+j
+"
+"TELL
+b & r & x => s; s => r; r & b & s => x; b => x; s & b & r => x; r & b => x; s & b & x => r; r & b & x => s; x & s & r => b; s & x => r; x; b;
+ASK
+s
+"
+"TELL
+l & r => j; r & l => v; l & r & v => j; v & l & j => r; l & v & j => r; v & j => l; r & j & l => v; r & l & j => v; j;
+ASK
+v
+"
+"TELL
+r & x & m & w => o; r => m; o & r & x => w; w & m & x & o => r; w & m & r => o; w & r & x & m => o; x & m & o => r; r & x => w; x => o; x => m; r & m & w => o; w => m; x & r & w => o; m;
+ASK
+w
+"
+"TELL
+q => w; j => q; q & w & e => j; e => j; j => e; e => w; e & w => q; e & q & w => j; w => q; w => e; e & w => j; q; e; w; j;
+ASK
+q
+"
+"TELL
+v => s; v => z; s & z => v; s & v => z; v & s => z; s => z; z => v; s => v; v; s; z;
+ASK
+v
+"
+"TELL
+m & b & z & n => d; z & m & n => d; b & d => n; m & z & n & d => b; n & d & z & m => b; n & z & b & m => d; z & d & b => m; m & z => d; z & d & n & b => m; m => z; b; z;
+ASK
+d
+"
+"TELL
+j & w & l & c => u; c & w & l => u; u => l; l & c => u; u & w & l => j; w; c;
+ASK
+j
+"
+"TELL
+n => e; b => n; y => b; e & p & n & b => y; e & b => y; y & b & e & n => p; b & e => y; p & e & y => n; y & n & e & b => p; e & p & b & y => n; y & p & b => e; y; b; p;
+ASK
+p
+"
+"TELL
+s & n & t & z => o; n & z & t & s => o; s & o => t; s => t; z & t & o => n; s & t & o & z => n; z; s; o;
+ASK
+n
+"
+"TELL
+u => s; u & s & w => r; w => r; s => w; w & s => r; s & r & w => u; r & s & w => u; u & r & w => s; u;
+ASK
+u
+"
+"TELL
+y => i; f => i; f => t; i & t => y; f & i & t & r => y; i & r => y; t & i & f & y => r; y => f; f => y; i & r => f; r & y & f => i; y & f => i; r & f & t => y; t; r;
+ASK
+i
+"
+"TELL
+l & r => p; r & p & l => v; v & r & l => p; p & v => l; l & r => v; v => p; p & v & l => r; r & l & v => p; r & v & l => p; r; p;
+ASK
+v
+"
+"TELL
+l & w => g; l & g & b => f; l & g & w => b; w => l; l & f & g & w => b; f => w; b & f & l & w => g; l & w & g => f; w & f => b; w & l => g; g & b & f => w; f & b => l; g; w; b;
+ASK
+w
+"
+"TELL
+e & q & n & f => z; e & n => q; n & f & q => e; q & z & e & f => n; q & z & f & e => n; f & q & z & e => n; n & f & z => e; n & z & q => e; q & f & e & z => n; z & q & e & f => n; f & q => z; e; z;
+ASK
+q
+"
+"TELL
+o & k & p & q => s; o & p & s => k; q & s & k & p => o; k & q & o & p => s; o & p & k => s; q & p & k & o => s; k & s & o => p; o & p & q => k; o & p => k; p;
+ASK
+k
+"
+"TELL
+k & n & t & z => e; k => z; k & z => t; e & t & k => z; n & k => e; z & e & n & k => t; z => k; k & e & t & n => z; k & z & e & n => t; n; t;
+ASK
+e
+"
+"TELL
+g & q => f; f & g => q; t & g & f => q; g & t & q => f; f & q => g; g;
+ASK
+g
+"
+"TELL
+g & t & p => s; t & g => s; p & s & g => t; g & s & t => p; g & t => p; g => p; t => p; p & g & s => t; t; s; p;
+ASK
+t
+"
+"TELL
+q & o => f; f => o; o & q => f; q => f; f & o => q; o => q; q & f => o; f & q => o;
+ASK
+f
+"
+"TELL
+n & p => k; k & p => n; n => p; k => n; p => k; p & k => n; p => n; n; k; p;
+ASK
+n
+"
+"TELL
+z & a & k => m; z & a => m; a & g & k => z; m & z & a & k => g; a => g; k; g; z;
+ASK
+g
+"
+"TELL
+g & n => x; a => n; g & n => a; a & x & g => n; g & x & n => a; n & x & a => g; x; g; n;
+ASK
+a
+"
+"TELL
+s & w => l; l & u => s; s => l; s & l => u; s => w; l => s; s => u; u & s => w; w & s => u; l & s & u => w; l; s; u; w;
+ASK
+s
+"
+"TELL
+h & t & z & c => s; h & c & z & t => s; t & c & z & s => h; t => z; s => h; z & t & c => h; t & s & c => z; s & t & h => z; c & z & h => s; h => z; z & h & t => s; z & h => s; t; h; c;
+ASK
+t
+"
+"TELL
+y & e & j => z; y & z & j => e; e => y; j & z & e => y; z & j => e; e & j & z => y; j & e & y => z; e & y => z; y & j & e => z; y => e; z & j & e => y; e & z & y => j; j & y => e; e; z;
+ASK
+e
+"
+"TELL
+e & h & i & w => j; i & e => h; h & w & e & j => i; e => i; j; i;
+ASK
+i
+"
+"TELL
+n & l => a; q & n => l; l => n; a & n & l => q; n & l => q; q & l => a; l; a;
+ASK
+n
+"
+"TELL
+x & a => q; q => x; x => a; a => x; a => q; q => a; a & q => x; q & a => x; x; a;
+ASK
+x
+"
+"TELL
+r => a; x & r & n => a; r & x => a; a & n => x; a & x => r; r => n; r & x => n; n & a => r; x & a & n => r; r & x & a => n; x => r; n; r;
+ASK
+x
+"
+"TELL
+d & q => n; x => q; p & q & x => n; x => d; n & p & q & x => d; q & d => x; d & n & p => q; p & q & x => d; n;
+ASK
+p
+"
+"TELL
+g => h; g => v; h & g => v; h => g; g & v => h; h & v => g; v; h;
+ASK
+v
+"
+"TELL
+b & q => y; k & b => y; q & b => k; y => k; y => q; k => y; y & k & b => q; b => y; b & y & q => k; q => k;
+ASK
+q
+"
+"TELL
+u => f; u & p => f; u & f => p; u => p; f => u; p => f; f & u => p; p & f => u; f; u; p;
+ASK
+f
+"
+"TELL
+p & b => t; w & t & b => p; p & b & t => w; w & p => t; t => w; b => w; w;
+ASK
+w
+"
+"TELL
+z & s & r & x => g; x & z & s => r; s & g & x & z => r; x & g & z => s; g & r & s => x; s & r & g => x; g & r => z; x; g; s; z;
+ASK
+z
+"
+"TELL
+l & o => j; r & o & w & j => l; w => r; l & r & j & o => w; l & o & j => w; w & j & l & r => o; l & j & r & w => o; j & l & w => r; l & w => o; l => j; w & j & o => l; j; w; o; r;
+ASK
+l
+"
+"TELL
+b & v => e; e & t & v => b; b & e & t => v; e => b; e; t;
+ASK
+e
+"
+"TELL
+l => g; l & k => b; k => b; b & k & g => l; k & g & l => b; g => b; g & l & k => b; b => k; b & g & k => l; g => k; l; k;
+ASK
+k
+"
+"TELL
+h & e => v; h & e => z; v & z => h; e => v; z & e => h; h => e; v; h; z;
+ASK
+h
+"
+"TELL
+w & x => k; w & x & k & l => e; w & e & k & x => l; k & x & e => l; e & l & x & k => w; k & w & e => l; l;
+ASK
+k
+"
+"TELL
+s => k; h & s => k; s => h; s & k => h; k => h; h & k => s; s & h => k; k & h => s; k => s; k & s => h; h => s; k; s; h;
+ASK
+k
+"
+"TELL
+q & l => b; l & q => i; l & i & q => b; q & b & i => l; i & l & q => b; l & b => q; l & b => i; l & b & q => i; l & i => b; i & q & b => l; i & q => b; l; q;
+ASK
+q
+"
+"TELL
+r & z => j; j & z & r => d; r & d => j; z & d & r => j; z & j & r => d; j & d => r; d & r & z => j; r => z; d & z => r; j => z; r => j; z; r;
+ASK
+z
+"
+"TELL
+g => i; q & i => g; i => q; i & q => g; q & g => i; g => q; q => g; g & i => q; i => g; i & g => q; q => i; g; q; i;
+ASK
+i
+"
+"TELL
+j & k => u; k => j; j => k; u & j => k; j & u => k; j => u; u => k; k & u => j; u => j; k; u; j;
+ASK
+k
+"
+"TELL
+q => w; f & d => w; d & q & f & e => w; e & d => f; w => d; f & e => w; q => f; e & d => q; w & q & f => e; f & d & w => q; e & w => d; d & f => w; q & d & e => w; f; w;
+ASK
+d
+"
+"TELL
+i => q; h => q; c & l => h; c & i & h & q => l; l & i & h => c; c & h => q; h => i; q; h; i;
+ASK
+c
+"
+"TELL
+w => m; m => w; h => w; m & h => w; h => m; h & w => m; w & m => h; w & h => m; m => h; m & w => h; w; m; h;
+ASK
+m
+"
+"TELL
+n => i; p & i => n; i & n => p; i => p; i & p => n; p;
+ASK
+n
+"
+"TELL
+x & a => g; x & a & g => l; a & g => x; x => g; g & x => l; g; a;
+ASK
+l
+"
+"TELL
+y => p; z & p & o => y; p & y & o => z; y => o; z & y => o; z => y; o & y & p => z; y; o; z; p;
+ASK
+z
+"
+"TELL
+g => c; c & g => n; n => c; r & c => g; g => r; g & r & n => c; n & g & c => r; n;
+ASK
+g
+"
+"TELL
+h & z => w; z & w => h; w & z => u; u => z; h; z;
+ASK
+h
+"
+"TELL
+c => g; c => i; i => g; c & g & i => t; c & t & i => g; i & g => t; t & i => c; g & t => c; i => t; i;
+ASK
+t
+"
+"TELL
+f & b => p; p & b => f; p => f; f & p => b; b => f; b => p; b & f => p; f => b; f => p; f; b; p;
+ASK
+f
+"
+"TELL
+o => v; l & p & v => c; p & o & l => c; l & v => p; o => c; v & p => l; p & o & v => l; o & c & v & l => p; v & p => o; o & v & l => p; o & v => l; v; c; o; p;
+ASK
+p
+"
+"TELL
+s & q & h & o => r; r => o; o & h => r; q & o & r => h; h & q & s => o; s; o;
+ASK
+h
+"
+"TELL
+v & e => t; v => e; l & e => t; l & e & t => v; e & l => t; v & e => l; e & v => l; t => l; v & l => t; t & l & e => v; l; t; e;
+ASK
+l
+"
+"TELL
+x & h => o; o => x; o => h; h => x; x & o => h; o & h => x; x; h; o;
+ASK
+x
+"
+"TELL
+o => r; b & o & w => a; w => o; r & a => o; w & b & a & o => r; w & a & o & b => r; o; w; b; r;
+ASK
+a
+"
+"TELL
+g => i; k & x & g => i; k & g & x => i; i & k => x; g & x => k; g & i & k => x; i & g => k; g => x; g & i & x => k; x & g & i => k; i & g => x; g => k; k => i; k; g;
+ASK
+g
+"
+"TELL
+g & x => t; g => x; x => g; t & g => x; t => x; t & x => g; x & g => t; g & t => x; g => t; g; t;
+ASK
+t
+"
+"TELL
+e & d => f; e & f & i => m; f & d & e => i; d => f; f & d & m & e => i; f => e; f;
+ASK
+i
+"
+"TELL
+l & n => x; l & x => n; l => n; n & x => l; l => x; n => x; n & l => x; x => l; x & n => l; n => l; l; x; n;
+ASK
+l
+"
+"TELL
+k & g => h; h & m & k => g; k => h; h & k & g => m; g & h => k; h & m => k; g & m & h => k; m => h; g;
+ASK
+k
+"
+"TELL
+t => z; z & o => t; t & o => z; o & t => z; z => t; t & z => o; z & t => o; o & z => t; z => o; t => o; o => z; o => t; o; t; z;
+ASK
+o
+"
+"TELL
+q & r => k; p & k => r; q & r & k => p; q => r; q & r & p => k; p & k & q => r; k & p & q => r; k & r & q => p; p & q => r; r & k => q; q & k => r; k; q; r; p;
+ASK
+k
+"
+"TELL
+t & x & w => d; t & s => w; d & w & s => x; s => x; x => t; w & x & s & t => d; t & d => w; w & d & t => x; w; s; t; d;
+ASK
+s
+"
+"TELL
+t & d => m; t => d; m => d; d & m => t; m => t; t => m; t & m => d; d => t; d & t => m; m & d => t; d => m; m & t => d; m; t; d;
+ASK
+t
+"
+"TELL
+o & n & u => t; n & t => u; u => n; t => n; n & u => t; u & t & n => o; n => t; n; u;
+ASK
+u
+"
+"TELL
+s => f; f => s; f & z => s; z => s; s & f => z; z & s => f; s & z => f; s => z; f => z; f; s; z;
+ASK
+z
+"
+"TELL
+c => r; n & s & r => d; r & d & s => n; c & d & s & r => n; d & n => c; n; d; c;
+ASK
+r
+"
+"TELL
+m & i & x => d; d & m & v => x; v => x; d & x & v => m; i & x & d => m; m; v;
+ASK
+x
+"
+"TELL
+d & h & u => w; u & h & w => d; w & h & d => u; u & d & w => h; d & w & u => h; h & d & w => u; u & h & d => w; w => u; w & h => d; d; u; w; h;
+ASK
+h
+"
+"TELL
+v & d & y & e => f; e & f & d & v => y; d & e & y => v; y => d; v & f & y & e => d; e & y & f => d; d & v & y => e; v;
+ASK
+d
+"
+"TELL
+b & u => i; u => l; b & l & i => u; i & l => b; u & l & b => i; b & u & l => i; l => i; u & b & i => l; u & i => l; i & b & l => u; u => i; b;
+ASK
+i
+"
+"TELL
+m => e; m & u => e; w & y & m & u => e; y & m & e => w; y & w & m => u; u & m & w => e; m & y & u & w => e; e & w & m => y; y => e; e & y => m; m & u & y => w; y; e; w;
+ASK
+y
+"
+"TELL
+d & a => j; a => j; a => d; j & d => a; j & a => d; j => a; a & j => d; d => a; j => d; a & d => j; d & j => a; a; d; j;
+ASK
+d
+"
+"TELL
+u & x & d => j; j => x; x & j & d => o; j => o; j & u & x => o; o => d; o;
+ASK
+o
+"
+"TELL
+l => y; r => y; l & r => y; r & y & a & t => l; l; a;
+ASK
+a
+"
+"TELL
+y => t; y & h & r & t => j; t & h & j => y; t & r & h & j => y; r => y; j & t & h & y => r; r & j & t => y; y; t; h;
+ASK
+y
+"
+"TELL
+p => z; z & n => q; q & z & n => p; n & z => q; z & q => p; n & q => p; z => p; n & q => z; q; z; p;
+ASK
+p
+"
+"TELL
+u => p; u => d; d & p => u; p => u; d & u => p; p & u & d => i; d & u => i;
+ASK
+d
+"
+"TELL
+p & a => d; a & d & u => x; d & a & u => x; u & x => a; p & u & a => x; u & p & x & d => a; p & u => d;
+ASK
+x
+"
+"TELL
+z => h; z & i & v => h; v & z => h; v & z & i => h; h => z; v => i; z => i; z => v; v; z; i;
+ASK
+v
+"
+"TELL
+c & g => l; l => g; g & c & s => l; s & l => c; c & s => g; c & l & s => g; s & l => g; l => s; s;
+ASK
+l
+"
+"TELL
+j & z => l; l & j => z; l & z => j; j & l => z; l => j; z & j => l; z => j; j => l; l; z; j;
+ASK
+j
+"
+"TELL
+r & p & g => w; p & w & g => r; g & w & p => r; p & g => r; w => r; g & p => w; p & r => w; g => r;
+ASK
+g
+"
+"TELL
+a => v; a & i => h; a & h => i; v & h & a => i; v & h => a; a & v => i; h => i; v; h;
+ASK
+h
+"
+"TELL
+d & e & j => i; d & i & e => j; e & i & j => d; d & j & e => i; d & j => i; e; i;
+ASK
+e
+"
+"TELL
+g & t => n; g & t & n => c; n => c; g & n & c => t; g & c => n; t & g & c => n; g & n & t => c; t => c; g; t; c;
+ASK
+g
+"
+"TELL
+y & j => u; y & u => j; u & j => y; j & u => y; j => u; y => j; j => y; y => u; u & y => j; u => j; y; u; j;
+ASK
+j
+"
+"TELL
+p => c; a & c & o => p; a & o & q & p => c; o => q; o & a => p; p;
+ASK
+a
+"
+"TELL
+o => i; o & i => h; o & h => i; i & o => h; i & h => o; h & o => i; i => h; h => i; h; i;
+ASK
+o
+"
+"TELL
+e & g => w; e & w => g; g => e; w & e => g; g & w => e; e => g; g & e => w; e => w; w => e; w => g; g; e; w;
+ASK
+w
+"
+"TELL
+c & a & d & b => n; b & a & n & d => c; n & c & b & d => a; n & a & c & d => b; a & n & d => b; c => a; b & c & a & d => n; n & d & b & a => c; n & c & a => d; n; a; d; b;
+ASK
+d
+"
+"TELL
+u & p => q; u & q => a; u & q & a => p; p & u => a; u => p; u & a & p => q; u & q & p => a; a => u; p => u; p & a => q; u & a & q => p; q;
+ASK
+a
+"
+"TELL
+m & k => a; m & x & a & h => k; x => a; k => h; x => k; k & a & x & h => m; h & k & x & a => m; k & a & x => m; k & m & a => x;
+ASK
+x
+"
+"TELL
+b & n => o; b => o; o => n; n => o; n & b => o; n; o; b;
+ASK
+n
+"
+"TELL
+f & p => n; n & s => f; o => n; p & s => f; f & p & s & o => n; f => n; p & o & s & n => f; n & s & p => o; f & p & n => s; f & s & o & n => p; o & s => p; s;
+ASK
+o
+"
+"TELL
+q & i & y => e; y => i; y & i & e => q; q & i & e => y; i & e => q; q & y => e; y & e => q; i & q & y => e; y & q & i => e; e => q; q => i; e; q; i;
+ASK
+y
+"
+"TELL
+k => u; u & k => n; u => n; n & k => u; n & u => k; u & n => k; k => n; u => k; n => u; n => k; n; k; u;
+ASK
+u
+"
+"TELL
+r & j => e; e => j; e & r => j; j & e => r; e => r; j & r => e; j => r; r => e; e; j; r;
+ASK
+r
+"
+"TELL
+l & c & z & t => x; l => x; x & c & l => t; c => l; c & z & t => x; l; z; c; x;
+ASK
+t
+"
+"TELL
+t & g & d => f; t & f & d => s; t => f; f; t; s;
+ASK
+d
+"
+"TELL
+c => g; b & r => g; c & r & g => b; r & g => c; g & b & r => c; b & g => c; b;
+ASK
+g
+"
+"TELL
+p & d => m; m => p; m => d; d => p; p => m; m & p => d; m;
+ASK
+p
+"
+"TELL
+j & p => r; r & j => p; j & r => p; p => r; j => r; p & j => r; j => p; r & p => j; r => p; r => j; p; j; r;
+ASK
+j
+"
+"TELL
+p => x; p & k => x; k & p => x; x => k; x & k => p; x & p => k; p => k; x; k; p;
+ASK
+k
+"
+"TELL
+o & h => e; m => e; h & o => e; i & o & e => h; i & e & h => o; o => h; h & i & o & e => m; e => h; e & o & m & i => h; e & h => i; m; h; o; i;
+ASK
+h
+"
+"TELL
+f => i; i & t => f; t => i; t => f; t & f => i; f & i => t; i => f; i => t; f => t; f & t => i; f; t; i;
+ASK
+f
+"
+"TELL
+k & h & v & z => w; w & k & h & z => v; k & z => v; z & w & h & v => k; z & h & w => k; v => h; v & k & h => w; v & h & w => k; k & z & v & w => h; h & z & v & w => k; z => v; v; h; z;
+ASK
+v
+"
+"TELL
+i & p => q; p => i; q & p => i; q => p; i & q => p; i => p; p & q => i; p & i => q; q; p;
+ASK
+q
+"
+"TELL
+d & h => f; f => d; d => h; f => h; f & d => h; h => d; f & h => d; d => f; h & f => d; f; h;
+ASK
+d
+"
+"TELL
+h & z => a; z & a => h; a & z => h; z & h => a; z => h; h => a; h & a => z; a & h => z;
+ASK
+z
+"
+"TELL
+s & w & i => x; w & x & s => u; i & x => w; u => x; w & u & i => x; s => u; x & s & w => u; u & x => s; w => i; i & w => x; u; s; i;
+ASK
+i
+"
+"TELL
+v => p; p & f => v; f & v => p; p => f; v => f; v & f => p; p & v => f; f & p => v; v & p => f; p => v; f => v; f => p; f; v; p;
+ASK
+f
+"
+"TELL
+n & w => t; n & c & w => t; n => t; w & n & t => c; c & n & w => t; c & w & t => n; c & t & w => n; w & c & n => t; t => w; n => w; n; t; w;
+ASK
+t
+"
+"TELL
+l & j => r; l & i & j => r; l & i & f => r; r & j => f; f & j & l => r; f & r & i & l => j; j & i => r; i & f & l => r; f & i & r & j => l; l; r; j; i;
+ASK
+l
+"
+"TELL
+w & s & l => n; l & s => n; n & s & w => l; w & s & n => l; l & w => n; w & l => s; w => l; l; s; n;
+ASK
+w
+"
+"TELL
+d & q & t & z => r; t => d; z & r & d & q => t; z => t; t & d => r; r & z & t & q => d; q; t; z; r;
+ASK
+d
+"
+"TELL
+o & k => e; w & c & o => e; w & o => e; k => e; k & o => w; c & e => k; o & e => c; o & c & w => e; c => w; e & c => w; e & c & o & w => k; w & c & k & o => e; e & o => k; k; o;
+ASK
+e
+"
+"TELL
+t => h; t & b => h; b & t => h; t & h => b; h => t; b => t; h => b; b & h => t; h & t => b; t => b; b => h; t; h; b;
+ASK
+t
+"
+"TELL
+i => q; q => i; q & i => z; z => q; i & z => q; q & z => i; z & i => q; i => z; i & q => z; z => i; z & q => i; q => z; q; z; i;
+ASK
+z
+"
+"TELL
+g => e; g & k & s & e => w; s & w => k; g & w => s; g; s;
+ASK
+s
+"
+"TELL
+l & t => k; l => k; k => t; k => l; t & l => k; t => l; t => k; k & l => t; k & t => l; t & k => l; l; k;
+ASK
+l
+"
+"TELL
+n & t & e => d; e & t & n => d; t & e => n; d & e => n; t; e;
+ASK
+n
+"
+"TELL
+q => l; f & l & q => y; l & y & f => q; q & l & f => y; l & q => y; q => f; f => y; y & f & l => q; q & y & f => l; l & f => q; f & y => q; y & q & f => l; l & y => f; y;
+ASK
+f
+"
+"TELL
+x => s; s & x => c; x & s => c; x & c => s; c => x; x;
+ASK
+x
+"
+"TELL
+m & k & x => e; x & e & k => m; e & x => k; m => x; x & k => e; e;
+ASK
+m
+"
+"TELL
+l & s => n; f & l => s; f => s; l => n; l & s & f => n; n & s & l => f; n; s;
+ASK
+l
+"
+"TELL
+f & h & b => s; f & h & s => b; s & h => f; h => b; h => s; f & b => h; h;
+ASK
+b
+"
+"TELL
+v & h => d; h & v => d; d => h; h => d; v & d => h; d & h => v; d;
+ASK
+v
+"
+"TELL
+u & a => g; g & u & x & l => a; x & u & g => a; a & g & l & u => x; g & x => a; l & a & g & x => u; x & a & l => g; g & a & l => x; u & x => l; x & g & a & u => l; x => u; x; u; a;
+ASK
+u
+"
+"TELL
+m & h & v => b; b & v & h => m; v & h & m => b; m & v => b; v & m => b; h & m => v; m & v & b => h; b;
+ASK
+b
+"
+"TELL
+y => z; y & d => z; d & y => z; d => z; d => y; d & z => y; y => d; z => d; y & z => d; z & d => y; z => y; y; d; z;
+ASK
+d
+"
+"TELL
+d & u & g & c => v; u & v & c & d => g; c => d; c & u & v & d => g; u; c;
+ASK
+v
+"
+"TELL
+s => h; x & h => s; h & x => s; s => x; h & s => x; s & h => x; x; s; h;
+ASK
+h
+"
+"TELL
+m & h & c & j => k; j & c & h => k; j & c => h; j => c; m & k & c & h => j; k & c => j; c & j => m; c & h & j => m; c & m => h; j & c & m => h; m & h => j; j & k & h => c; k; m; c;
+ASK
+m
+"
+"TELL
+a => l; h => q; l & h => q; a & c & q & l => h; a; c;
+ASK
+h
+"
+"TELL
+s => x; p & s & l => k; p & k & s => l; l & x & k & p => s; p => k; k;
+ASK
+p
+"
+"TELL
+u & a & l & m => i; l & a & i & m => u; m & a & i & u => l; l & a => u; i & a => u; m & i & l & a => u; m => i; i & a & l => m; m & i & u => l; m; i;
+ASK
+u
+"
+"TELL
+x & a => q; a & x & q & l => k; q & l & a => x; x => a; a & x & k => l; a & q & x => l; l & x & q & k => a; l & x & q => k; a & k => l; l & a & q => x; l; q; a;
+ASK
+x
+"
+"TELL
+p => m; a => t; p & m & a => t; t & a & p => m; m; p;
+ASK
+m
+"
+"TELL
+n => g; g => j; g & j & v => n; v & n & g => j; v & j => g; j & n & g => v; g & j => n; g & n & j => v; v & n => j; v & j => n; n; g; v;
+ASK
+g
+"
+"TELL
+x & a => h; i => a; i & h => a; i => x; i & a & h => x; h & i => x; h; i;
+ASK
+i
+"
+"TELL
+r & s & x & k => o; k => x; k & s & x & r => o; o & r => s; r & s & o => x; r & o & s => x; s & k => r; s; k; x; o; r;
+ASK
+o
+"
+"TELL
+y & f => z; z & p & y => f; r & z & y => f; y & r & f & p => z; p & z => r; y & r & f & z => p; y & f => r; r & f => y; p & z => f; z => y; f => p; f; y; p;
+ASK
+f
+"
+"TELL
+u => f; d & f => u; f => u; u => d; u & d => f; d => f; f & d => u; f; u;
+ASK
+u
+"
+"TELL
+s => b; x & b => g; x => b; s & g & x => b; x & g & b => s; x & b & s => g; b & x & s => g; b & g & x => s; x; g; s;
+ASK
+g
+"
+"TELL
+p => x; i & x & r => p; p & i => r; r => x; x & p & i => r; r & i & x => p; x & r => i; i => r; x & r & p => i; x; i; p;
+ASK
+p
+"
+"TELL
+w & k => g; k => c; w & g & c => k; g & k & w => c; g & c & w => k; k => g; w & c => k; w & k & g => c; c & g => k; k; g;
+ASK
+g
+"
+"TELL
+u & p & v => m; m => p; p & v & m => u; u => m; p => v; p & u & v => m; m; u; p;
+ASK
+u
+"
+"TELL
+q & r & g => h; g & t & h => q; r & h & q & g => t; r & t => g; t & r => g; q & r & h & g => t; h & r & t & q => g; h & r => q; t; h;
+ASK
+h
+"
+"TELL
+j & u => q; q & u => j; q => j; q => u; j => u; j => q; j & q => u; u => j; u & j => q; q;
+ASK
+q
+"
+"TELL
+s & q & g => z; q & g => z; g & s => z; g & q & s => z; s & q => z; z & g & s => q; z & s & g => q; q => s; g; q; s; z;
+ASK
+q
+"
+"TELL
+r & u => j; z & i & j => u; r & z & j & u => i; u & z => r; j => r; u & i & z => r; i => r; u => j; r & z => u; r => j; u; j; i;
+ASK
+i
+"
+"TELL
+t => z; q & z => t; q => z; z & q => t; t => q; q & t => z; t & q => z; q => t; z => q; z & t => q; t & z => q; q; t; z;
+ASK
+q
+"
+"TELL
+b & e & x & o => w; w & x & o & e => b; e & o & x => w; w & o => e; w => b; e & x => b; e & b => x; w & o & x & e => b; w => e; e => b; x; o; e; b;
+ASK
+w
+"
+"TELL
+q => l; q & l => b; q & b => l; q => b; b => l; l => q; b & q => l; l; q;
+ASK
+b
+"
+"TELL
+e & a => q; v & e & q => a; v & a & q => e; q & v & e => a; a & v => q; a => q; a => e; e & q & a => v; v & q & e => a; q => e; v & q & a => e; a & v => e; e; a;
+ASK
+a
+"
+"TELL
+x & w => f; w & x => f; w => x; f => w; x => w; f & x => w; w => f; f; w; x;
+ASK
+w
+"
+"TELL
+p & c => d; c & p => d; p & v & d & c => q; v & q => d; p => c; v & c & d & q => p; c => v; p & v => q; q & c & p => v; v; d;
+ASK
+p
+"
+"TELL
+e => u; g => e; u => g; e & g => u; g & e => u; u & g => e; u & e => g; g & u => e; g => u; e; g; u;
+ASK
+g
+"
+"TELL
+d => p; o & p => d; d => o; o => p; o => d; d; p;
+ASK
+d
+"
+"TELL
+e & m => y; m & y => e; y & e => m; m & e => y; e => y; y => m; e & y => m; y;
+ASK
+e
+"
+"TELL
+r => s; q => r; s & q => r; r & s => q; q => s; q & r => s; r & q => s; q; s; r;
+ASK
+s
+"
+"TELL
+r & p => e; n & p => e; f & n & r & e => p; n => r; p => r; f & r & n => e; p & e => n; e => n; f => e; p & r & f => n; r => p; n; r;
+ASK
+r
+"
+"TELL
+d & r => m; m => d; m & r => d; r & m => d; m => r; r => d; m & d => r; d => m; d & m => r; m; r;
+ASK
+m
+"
+"TELL
+e & o => f; n => e; e & n & o => f; o & e => f; e => n; f & n & o => e; n & e & o => f; f & n & e => o; e & o & f => n; n;
+ASK
+e
+"
+"TELL
+i & k & s & c => h; s & i => c; k & i => s; k & s & i => c; i & c & h & s => k; c & k => h; c & h => i; i & c & k & s => h; c; s; k; i; h;
+ASK
+h
+"
+"TELL
+r => m; z => m; m & r => z; r & z => m; z & r => m; z & m => r; r & m => z; r => z; m & z => r; m => r; z => r; m => z; m; z; r;
+ASK
+r
+"
+"TELL
+o & r & x => m; r & v & x => o; v & m & r => x; v & x => o; o & x => v; v & m & x => o; x & o => v; o => m; m & r => o; x; v; o; m; r;
+ASK
+m
+"
+"TELL
+x => i; k => x; i => k; x & i => k; i & x => k; k; i;
+ASK
+i
+"
+"TELL
+a & h => l; l & a => h; h & a => l; l => a; a => l; h => a; a & l => h; l => h; h & l => a; h => l; l; a; h;
+ASK
+a
+"
+"TELL
+e => c; e & r & s => c; s & c & e => r; c => r; c => e; c & e => s; r => e; c & e => r; c & e & r => s; s => c; c => s; s; r;
+ASK
+s
+"
+"TELL
+y & o & v => k; k & y => o; v & o => k; y => k; y & o => v; k & o & v => y; k & o => v; y & k => v; y; k;
+ASK
+y
+"
+"TELL
+t & v & k => h; c & h & t & v => k; t & c & v => k; v => h; c & k & t & v => h; t; c; h;
+ASK
+k
+"
+"TELL
+k & r => t; k & t => i; t & r & k => i; k & r => i; k & i => r; t & r => k; r & t => i; k => r; r & k & t => i; t & i & r => k; i & k => r; r & i & k => t; k => i; k; i;
+ASK
+t
+"
+"TELL
+b & f & d => r; d => b; b => f; f & r => b; r & b => f; b => r; d & f & r => b; r;
+ASK
+b
+"
+"TELL
+p & w & f & g => y; p & y => w; g => w; p & y & f => w; f & g & w => p; f & w & y & p => g; f & g & w & y => p; f & y & w => p; f; y; p;
+ASK
+y
+"
+"TELL
+g & a & r => v; g & v => r; a & v => r; v => g; g & r & v => a; v => a; g => r; a => g; a & v & r => g; r => g; g; a;
+ASK
+r
+"
+"TELL
+m & n & h => z; n & z & m & h => f; n & m & h => z; h & z & f & m => n; m & f => h; f & n & z & h => m; n & m & h => f; f => m; z & m & h & f => n; n; m;
+ASK
+z
+"
+"TELL
+w & n => u; h & u => n; n => u; w & h => n; u => n; w & u => n; u & n & w => h; w & u => h; n; w; h;
+ASK
+u
+"
+"TELL
+y & g & t & j => d; t => j; g & y & d => j; y => g; y & t => d; t & g & y => d; y => d; t => y; j & d & t => g; y & g & d => t;
+ASK
+g
+"
+"TELL
+f & t => o; o & s => f; f => o; s => t; o => s; t => o; o & s & f => t; o & t & f => s; t; s; o;
+ASK
+t
+"
+"TELL
+i => e; i & g => e; e & g => i; i => g; g => e; i & e => g; g & e => i; e => g; g & i => e; g; e; i;
+ASK
+g
+"
+"TELL
+g => k; t & g => k; k => t; k & g => t; t => g; k => g; t => k; g & k => t; g & t => k; k & t => g; t & k => g; k; g; t;
+ASK
+g
+"
+"TELL
+n & i & y => p; p & y => n; i & p => y; y & i => n; y => n; y & i & p => n; n => y; p => y; y; i;
+ASK
+p
+"
+"TELL
+i & e => p; p & s & e => i; e & s & p => i; i & e => s; p; e; s; i;
+ASK
+e
+"
+"TELL
+m & o => e; e => m; o & m => e; e & o => m; o => m; m; e;
+ASK
+e
+"
+"TELL
+n & k & x => c; x & n & k => c; c => x; x & c & k => n; n & x => k; n & k => x; n; k; x; c;
+ASK
+c
+"
+"TELL
+i => q; g & i & j => q; q => g; i & g => j; i => g; i => j; j & g & q => i; q => j; i & j & g => q; j => g; g & q & i => j; j & q => i; j; i;
+ASK
+q
+"
+"TELL
+o & u => x; o & x => u; u => x; x => o; x => u; u; o;
+ASK
+x
+"
+"TELL
+t & u & b & l => h; t & h & l & b => u; b & t & h & l => u; b & h & l & t => u; l & u & b & t => h; l => h; h & t & l => u; t & h & b => l; t; h;
+ASK
+u
+"
+"TELL
+v => x; v & d & j => x; x => d; d & v & j => x; x & d & j => v; v & d & x => j;
+ASK
+v
+"
+"TELL
+b => x; n => y; z => n; z => b; n => x; n & y => b; y & b & z & n => x; y => x; x => n; n => b; b & y & z => x; z => y; y; b; n;
+ASK
+y
+"
+"TELL
+q => a; a & i => u; u & q => i; i & a & q & k => u; a & u & q => k; q & a & k => i; q => i; q; u; a; i;
+ASK
+i
+"
+"TELL
+i & m => q; q & i => m; i & q => m; q => m; q => i; m;
+ASK
+q
+"
+"TELL
+r & g & o & f => n; n & f => o; f & r => o; n & g & f => o; g => o; r & g & n & f => o; f; g;
+ASK
+f
+"
+"TELL
+g => h; t => h; t & h & o => g; h => t; h & g => o; g & o => t; h => o; o & t => h; t => o; t & g & h => o; g; t; h; o;
+ASK
+h
+"
+"TELL
+w => n; w & t => n; w => t; t => n; n & t => w; t & w => n; t => w; n => w; n; t; w;
+ASK
+w
+"
+"TELL
+s & l & r => w; s & r & w & l => o; s & r => l; w => o; o & r & s => w; r & s & w => l; o & r => l; o & w & r => s; s; l; o; w; r;
+ASK
+l
+"
+"TELL
+u => c; c & w => u; p & u => w; p => w; u & c => p; c & p => w; u => w; w => u; u & p & w => c; w & u & p => c; w; u; c; p;
+ASK
+u
+"
+"TELL
+t & n & x => p; t & p & n => x; x => n; n & m => t; m & n & t => p; m & t & n & x => p; t;
+ASK
+p
+"
+"TELL
+u & p => k; u & j => p; u & p & j => k; k & j & u => p; u & p => j; u & j & p => k; j & k & p => u; k & u => j; u => j; k; u; j; p;
+ASK
+p
+"
+"TELL
+d => z; d => j; z & d & v & r => j; z & d & v => j; r & d & v & z => j; j & d & r => v; r & v & d & j => z; j => v; j => d; v; z; r;
+ASK
+v
+"
+"TELL
+h & d => u; t => i; t & u => h; i & t => d; u & h & i => t; h => d; t & u => i; u;
+ASK
+u
+"
+"TELL
+n & k & d & v => l; d & k & l => v; d & v => k; v & k => l; v & l => k; v & l & n => k; n & d => v; d & l & k & v => n; l & v => n; k; v; d;
+ASK
+d
+"
+"TELL
+a & y => o; a & o & y => b; b => o; a & y & o => b; a => b; a & b => y; a => o; a & o & b => y; y; b; a; o;
+ASK
+a
+"
+"TELL
+a & v & n & k => t; v & a => t; v => k; v & n => k; v & k & n => a; k & v & n & t => a; a & k => n; k; t; v;
+ASK
+n
+"
+"TELL
+c & t => g; t & q & g & c => v; c => v; t & c & q & g => v; q & g & c => v; v & g & c & q => t; t => c; g & v & q & c => t; g => t; g & v & t & q => c; q; g; v; c;
+ASK
+c
+"
+"TELL
+p & l & t => w; t & p & l & z => w; z & t & w => p; t & z => l; p & w => t; w & p => t; t; w; p;
+ASK
+l
+"
+"TELL
+e & a => o; q & a & e => o; a & e => q; e => o; a => e; e => q; a & q & e => o; q; a; o;
+ASK
+q
+"
+"TELL
+b & r => q; r => m; r & b & m => q; b => m; q & b & m => r; q; b; r;
+ASK
+q
+"
+"TELL
+a & t => x; t & x => a; x & a => t; x => a; a => t; a & x => t; x & t => a; x => t; t & a => x; t => x; x; t; a;
+ASK
+t
+"
+"TELL
+e => m; e & q & m => z; m & e & q => z; e & z => q; q => m; m & z => e; q & e & m => z; m; z;
+ASK
+z
+"
+"TELL
+n & i => d; k & n => z; n & k & i & d => z; d & n & z & i => k; d & i & z & n => k; i & d & n => k; i & n & z & d => k; i => d; z & n & i & k => d; d & n & i & z => k; k & d => z; n; k;
+ASK
+n
+"
+"TELL
+t & f => s; s => f; t => f; f & s => t; f => t; f; t;
+ASK
+f
+"
+"TELL
+t & g & l => m; l & m & g => t; t & g => l; t & l & m => g; t & l => g; g => l; m & l & g => t; g & t & l => m; m; g; t;
+ASK
+m
+"
+"TELL
+q & v => a; a => q; a & v => q; q => a; v & a => q; v => a; v => q; a & q => v; v & q => a; q; a; v;
+ASK
+a
+"
+"TELL
+p => e; e & p => a; p => a; e => a; p & e => a; a => e; a & e => p; a => p; e => p; e & a => p; a; p;
+ASK
+p
+"
+"TELL
+k & r => d; r & d & t & k => v; r & t & v & d => k; k & d & t & r => v; v & k => d; v & k & t => d; d => v; v; r;
+ASK
+v
+"
+"TELL
+k & w => l; l & d => w; l => k; l & w & d => k; w & k => d; d & l => k; w => k; d & l & k => w; l;
+ASK
+w
+"
+"TELL
+c => h; k & l => c; l & h => k; h & c & k => o; l & k => h; o & h & k & l => c; c & k => h; l; k; c;
+ASK
+c
+"
+"TELL
+r => u; u => l; l & u & r => t; l => t; l => u; t & l => u; r => l; l & u => r; l;
+ASK
+r
+"
+"TELL
+l & u => d; u => l; l & d => u; u => d; d => u; d & u => l; l => d; u & l => d; l => u; u & d => l; d => l; l; u; d;
+ASK
+l
+"
+"TELL
+a & q => f; f & a & q => w; f & a => q; a => f; q => f; q & a & f => w; w & f & q => a; a => w; w => f; f => q; f; q; w;
+ASK
+a
+"
+"TELL
+w & j => n; w => n; n & w & j => z; n & z => j; w => z; j => n; w & j => z; z => j; w => j; w & z => j; n & z & w => j; n; w;
+ASK
+n
+"
+"TELL
+a & c => e; h & d & c & e => a; a & e & h => c; a & c & d => e; h => e; e; a; d;
+ASK
+h
+"
+"TELL
+r & h & t & s => j; t & r & j => h; r & s & t & j => h; r & s & h => t; t & s => h; h & t => j; h & s & r & t => j; j => s; j => t; j => h; h & r => j; s & h & j & t => r; t; s; r;
+ASK
+t
+"
+"TELL
+q & m => f; c & g & q => f; g & f => q; f & c & g & q => m; f & q & c => g; g & m => q; m => q; f & g & c & m => q; c & m & g & f => q; m; g; q;
+ASK
+f
+"
+"TELL
+v & f => e; e => f; f => v; v => e; f & e => v; v => f; e & f => v; v & e => f; e => v; f => e; f & v => e; e & v => f; f; e; v;
+ASK
+f
+"
+"TELL
+e & y => a; y & t & a => e; y & t & a => u; y & e & u & t => a; e & a & t & u => y; e & t => y; a & t & y => e; y => a; y; t; a; u;
+ASK
+t
+"
+"TELL
+g & n => p; n => g; p => g; p & g => n; g => n; p & n => g; p => n; g => p; n & p => g; n; g;
+ASK
+g
+"
+"TELL
+a & x & j => g; a & x => g; g & j & x => a; x & g & j => a; x; g; a; j;
+ASK
+a
+"
+"TELL
+k => p; b & k => p; b => k; p & b => k; k => b; b => p; p => k; k & b => p; p;
+ASK
+k
+"
+"TELL
+f & z => b; f & b & z => c; f & z & c => b; f & c => b; z & b & c => f; b => z; c;
+ASK
+f
+"
+"TELL
+v & h => i; h & k & v => i; v & i => h; k => h; h & v & i => k; h & k & i => v; k => v; v & k & h => i; v; h;
+ASK
+v
+"
+"TELL
+j & v => w; w & j => v; v => w; v & w => j; v; j;
+ASK
+v
+"
+"TELL
+b => o; o & p => b; b => p; b & p => o; p & o => b; b & o => p; p => b; o => p; p => o; o => b; b; o; p;
+ASK
+o
+"
+"TELL
+w & y & d & p => u; d & p & y => u; y & p => u; w & u & d => y; p & y & d & w => u; d & p & y & w => u; u & y & w & d => p; w & p => y; w => u; w => y; d & p & y & u => w; d & w & u & p => y; p & d & w & y => u; w; p;
+ASK
+u
+"
+"TELL
+w & o => z; z & o => p; o & w => k; o => w; z; k; o;
+ASK
+p
+"
+"TELL
+c & r => t; t & r => m; t => r; c => m; m & r & t => c; r & c & m => t; r & m => t; m; t; c; r;
+ASK
+t
+"
+"TELL
+y & w & u => r; r & u & y => w; r & y & w => u; w => u; u => r; y; w;
+ASK
+u
+"
+"TELL
+m & i & h => v; m & v & i => h; i & h => v; v & i => h; m & h & i => v; i & v & m => h; m => i; i & h & v => m; m & h => v; m & h & v => i; m; v;
+ASK
+h
+"
+"TELL
+l & w => j; w & l & j => u; l & w => u; j => w; w & j => u; l & u => w; j & l & u => w; l => j; w => j; l; u; w; j;
+ASK
+j
+"
+"TELL
+v & t => a; w => v; w => t; v & a & t & w => p; p & a & t & v => w; a & w & v => p; p;
+ASK
+v
+"
+"TELL
+d => n; r & d & n => t; t & d & r => n; d & r => n; t => n; n & d & t => r; n; t; r;
+ASK
+t
+"
+"TELL
+f & w => t; t & w => f; w & f => t; t => f; f & t => w; f => t; w => f; t => w; f; t; w;
+ASK
+w
+"
+"TELL
+q & o => e; o & e => q; e => o; e & q => o; q => e; o => q; o & q => e; e & o => q; q => o; q & e => o; e; q; o;
+ASK
+q
+"
+"TELL
+d & n & w => m; u & m & n & d => w; n & u & m & w => d; u => m; w => m; m; w;
+ASK
+n
+"
+"TELL
+e & c => y; y => c; c => e; e => y; y & e => c; e; c;
+ASK
+e
+"
+"TELL
+y & x => g; g => y; x => y; y => g; y & g => x; x => g; x & g => y; g & x => y; x & y => g; y; g; x;
+ASK
+y
+"
+"TELL
+j & u => n; u & j => n; j & n => u; u => n; u & n => j; n => j; u => j; j => u; n & j => u; j => n; n => u; n & u => j; n; u; j;
+ASK
+u
+"
+"TELL
+a => j; e => a; p => g; g & j & e => p; p & a => e; g; a;
+ASK
+g
+"
+"TELL
+n => e; a => n; n => a; e & a => n; a => e; n & e => a; e => n; n & a => e; a & n => e; n; e;
+ASK
+n
+"
+"TELL
+e => u; v => e; m & v & e => u; e & u & m => v; u => m; v & m => u; e & m & v => u; e; v;
+ASK
+e
+"
+"TELL
+a & r & v => d; v & r & y & a => d; a & r & y => v; a => r; y => d; y & a => v; r & a => d; v => y; d & y => a; y; a; v; d; r;
+ASK
+r
+"
+"TELL
+m => l; m & k => h; l & m & h => k; l => k; h & l => k; m & h & k => l; m & h => k; m & l & h => k; m & k => l; k & h & m => l; m => h; h => l; l & k & m => h; l; k;
+ASK
+l
+"
+"TELL
+p & v & u => r; u & r => v; v & r & p => u; r => v; u & v => p; r;
+ASK
+v
+"
+"TELL
+p & g & y => f; t & p => g; y & f => g; f & p & y => g; p => y; g => t; t;
+ASK
+y
+"
+"TELL
+p & n & x => c; n & p & x => c; p => c; p & c & x => n; c => p; c & p => x; n; x; c;
+ASK
+p
+"
+"TELL
+o => r; r => m; o & m => r; r & o => m; m & o => r; o => m; m & r => o; m; o; r;
+ASK
+m
+"
+"TELL
+e & t & s => d; t & e => h; t & e => d; t & s => h; d & e & t & s => h; d => h; d & h & s => e; e;
+ASK
+t
+"
+"TELL
+j & f & z & s => w; s & f & z & j => w; j & w & z & s => f; f & j => w; w => f; j & z & s & f => w; s; w; z; j;
+ASK
+w
+"
+"TELL
+c => h; q => c; h => q; q & c => h; q => h; c => q; h & q => c; q & h => c; c & h => q; h => c; c & q => h; q; c; h;
+ASK
+h
+"
+"TELL
+x & z & m => c; y & c => z; m & x & c => z; y & z & m => x; y => m; x; c;
+ASK
+z
+"
+"TELL
+y & a & j & s => g; j & g & s => a; j & y & g & a => s; s & g & j => y; a & j & g => s; y => s; s & a => y; s & a & g & j => y; g & y => s; y; j;
+ASK
+y
+"
+"TELL
+f => o; o => f; y & o => f; o & f => y; o => y; y => o; o & y => f; f & y => o; y; o;
+ASK
+o
+"
+"TELL
+l & n => z; i & l => z; z & i => l; n & l & z => i; z & l => i; l; i;
+ASK
+i
+"
+"TELL
+x & r & b => i; x => b; r & b => x; r & i & b => x; x & r => b; i => r; i; r;
+ASK
+i
+"
+"TELL
+y & w => l; y => w; l => y; w & l => y; w & y => l; y => l; l & y => w; l & w => y; l => w; w => y; y & l => w; w => l; l; w; y;
+ASK
+l
+"
+"TELL
+v => n; s & u & n & p => v; v & n & p & s => u; v & s & p & n => u; v & u & s => n; s & u & n => p; s => v; s & v & u & n => p; n; u; s; p;
+ASK
+u
+"
+"TELL
+s & q & r => p; q => r; p => r; p & r => q; s & p => r; s & q => r; p & q => r; r => p; p;
+ASK
+r
+"
+"TELL
+r & v => i; m & i & k & r => v; m & r & v => k; v & r & k => i; k & r & i => m; v & r & m => k; k; i; v; m; r;
+ASK
+k
+"
+"TELL
+u => b; v & u => b; b => u; u & b => v; b & u => v; b & v => u; u => v; v & b => u; v => b; u; v; b;
+ASK
+u
+"
+"TELL
+m => d; z => m; z & m => d; z & d => m; z => d; d & m => z; m => z; d; z;
+ASK
+d
+"
+"TELL
+b => k; c => b; b => c; k & b => c; k & c => b; b & k => c; c => k; k; c; b;
+ASK
+c
+"
+"TELL
+n & h & d => c; d & n & c => h; d => h; d & c & n => h; n & c => d; h => n; n & d & c => h; d => c; c => n; h => c; h & d => n; n; d; c; h;
+ASK
+h
+"
+"TELL
+f & q => m; q & m => f; f & m => q; m => f; q => f; m & f => q; q & f => m; m & q => f; m => q; f => m; f => q; f; m; q;
+ASK
+f
+"
+"TELL
+h & a & b => m; a & m & h => p; h & p => a; p & b & m => h; b & a & h => m; m & h => p; p & m & b => a; b & h & a => p; m; a; h; p;
+ASK
+h
+"
+"TELL
+a & g => o; g & a => o; g => a; a => g; a => o; g & o => a; g; a;
+ASK
+g
+"
+"TELL
+z & a => v; v => p; v => a; a => p; v & z => a; z;
+ASK
+p
+"
+"TELL
+s & p => l; u & w & p & l => s; u => p; s & u & w => p; l & s => p; w & l & p => s; s & p & w & u => l; p;
+ASK
+l
+"
+"TELL
+j & t & z => x; t & j => c; j & x & z & c => t; x & t & j => c; z & j & x => t; x; t; z;
+ASK
+z
+"
