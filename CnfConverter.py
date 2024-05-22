@@ -6,6 +6,7 @@ from utils import (
 )
 
 def biconditional_eliminating(exp_tree):
+    # Eliminate biconditional operators (<=>) from the expression tree.
     if isinstance(exp_tree, str):
         return exp_tree
     elif isinstance(exp_tree, list) and exp_tree[0] == "<=>":
@@ -15,6 +16,7 @@ def biconditional_eliminating(exp_tree):
         return [exp_tree[0]] + [biconditional_eliminating(sub_exp) for sub_exp in exp_tree[1:]]
 
 def implies_eliminating(exp_tree):
+    # Eliminate implication operators (=>) from the expression tree.
     if isinstance(exp_tree, str):
         return exp_tree
     elif isinstance(exp_tree, list) and exp_tree[0] == "=>":
@@ -23,6 +25,8 @@ def implies_eliminating(exp_tree):
         return [exp_tree[0]] + [implies_eliminating(sub_exp) for sub_exp in exp_tree[1:]]
 
 def negation_eliminating(exp_tree):
+    # Eliminate negation operators (~) from the expression tree by applying De Morgan's laws.
+    # Push negations inward until they are directly applied to literals.
     if isinstance(exp_tree, str):
         return exp_tree
     elif isinstance(exp_tree, list) and exp_tree[0] == "~":
@@ -36,6 +40,7 @@ def negation_eliminating(exp_tree):
         return [exp_tree[0]] + [negation_eliminating(sub_exp) for sub_exp in exp_tree[1:]]
 
 def doubleNegEliminating(exp_tree):
+    # Eliminate double negation (~(~P)) from the expression tree.
     if isinstance(exp_tree, str):
         return exp_tree
     elif isinstance(exp_tree, list) and exp_tree[0] == "~" and isinstance(exp_tree[1], list) and exp_tree[1][0] == "~":
@@ -44,6 +49,8 @@ def doubleNegEliminating(exp_tree):
         return [exp_tree[0]] + [doubleNegEliminating(sub_exp) for sub_exp in exp_tree[1:]]
 
 def distribution_perform(exp_tree):
+    # Perform distribution of disjunction over conjunction in the expression tree.
+    # Apply the distributive property to bring the expression into Conjunctive Normal Form (CNF).
     if isinstance(exp_tree, str):
         return exp_tree
     elif isinstance(exp_tree, list) and exp_tree[0] == "||":
@@ -54,6 +61,7 @@ def distribution_perform(exp_tree):
     return [exp_tree[0]] + [distribution_perform(sub_exp) for sub_exp in exp_tree[1:]]
 
 def cnf_converter(exp_tree):
+    # Convert the expression tree to CNF
     exp_tree = biconditional_eliminating(exp_tree)
     exp_tree = implies_eliminating(exp_tree)
     exp_tree = negation_eliminating(exp_tree)

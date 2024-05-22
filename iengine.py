@@ -4,7 +4,6 @@ from KnowledgeBase import KnowledgeBase
 from Algorithms.TruthTable import *
 from Algorithms.FowardChaining import *
 from Algorithms.BackwardChaining import *
-from Algorithms.WalkSAT import *
 from Algorithms.DPLL import *
 
 def main():
@@ -28,11 +27,7 @@ def main():
         elif algorithm_choice == "BC":
             knowledge_base = KnowledgeBase(True)
             knowledge_base.load_input_file(file_name)
-            algorithm = BackwardChainingAlgorithm(knowledge_base)
-        elif algorithm_choice == "WALKSAT":
-            knowledge_base = KnowledgeBase(True)
-            knowledge_base.load_input_file(file_name)
-            algorithm = WalkSAT(knowledge_base)    
+            algorithm = BackwardChainingAlgorithm(knowledge_base)   
         elif algorithm_choice == "DPLL":
             knowledge_base = KnowledgeBase(True)
             knowledge_base.load_input_file(file_name)

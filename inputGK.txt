@@ -1,4 +1,4 @@
 TELL
-((x => p) || ~p); ((e || x) & (e & p)); ((p & e) || (p & x) || (x => e)); ((x || e) & (x || p)); ~(x & p); ((x || e) => (p || x) => (e & p))
+f & o & i & v => a; v => a; a & i => o; a & f & v & i => o; v; i;
 ASK
-((p || x) => (p || e))
+f

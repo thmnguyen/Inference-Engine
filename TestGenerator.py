@@ -39,3 +39,4 @@ def generate_random_tests(num_propositions, num_expression, depth):
     knowledge_base = "; ".join(set(generate_random_expression(propositions, depth) for _ in range(num_expression)))
     query = generate_random_expression(propositions, depth) if random.random() < PROBABILITY_OF_QUERY_BEING_AN_EXPRESSION else random.choice(propositions)
     return f"TELL\n{knowledge_base}\nASK\n{query}"
+
