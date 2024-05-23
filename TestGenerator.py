@@ -1,6 +1,6 @@
 import random
-from constants import LOGIC_OPERANDS
 
+LOGIC_OPERANDS = {"~": 4, "&": 3, "||": 3, "=>": 1, "<=>": 1}
 PROBABILITY_OF_HORN_QUERY_BEING_AN_EXPRESSION = 0.7
 PROBABILITY_OF_QUERY_BEING_AN_EXPRESSION = 0.6
 

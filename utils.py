@@ -1,6 +1,5 @@
 import re
-from constants import LOGIC_OPERANDS
-from utils import *
+LOGIC_OPERANDS = {"~": 4, "&": 3, "||": 3, "=>": 1, "<=>": 1}
 
 def get_tokens(sequence: str):
     # Extract tokens from a sequence string.

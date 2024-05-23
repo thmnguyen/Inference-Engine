@@ -1,5 +1,6 @@
 from utils import*
-from constants import LOGIC_OPERANDS
+
+LOGIC_OPERANDS = {"~": 4, "&": 3, "||": 3, "=>": 1, "<=>": 1}
 
 class LogicSentence:
     def __init__(self, raw_content: str = "", content: list = [], symbols: dict = dict()):
